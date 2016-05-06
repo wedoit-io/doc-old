@@ -1,0 +1,13 @@
+{
+  "page": {
+    "title": "Home"
+  },
+  "sections": {
+    "projects": {
+      "title": "Portfolio"
+    },
+    "clients": {
+      "title": "Clienti"
+    }
+  }
+}

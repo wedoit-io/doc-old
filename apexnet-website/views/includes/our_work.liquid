@@ -1,0 +1,78 @@
+<div id="work" class="page">
+  <div class="container">
+      <!-- Title Page -->
+        <div class="row">
+            <div class="span12">
+                <div class="title-page">
+                    <h2 class="title">Portfolio</h2>
+                    <h3 class="title-description">Check out our <span class="blue">projects</span>.</h3>
+                </div>
+            </div>
+        </div>
+        <!-- End Title Page -->
+
+        <!-- Portfolio Projects -->
+        <div class="row">
+          <div class="span3">
+              <!-- Filter -->
+                <nav id="options" class="work-nav">
+                    <ul id="filters" class="option-set" data-option-key="filter">
+                      <li class="type-work">Type of Work</li>
+                        <li><a href="#filter" data-option-value="*" class="selected">All Projects</a></li>                        
+                        <li><a href="#filter" data-option-value=".business">Business</a></li>
+                        <li><a href="#filter" data-option-value=".educational">Educational</a></li>
+                        <li><a href="#filter" data-option-value=".insurance">Insurance</a></li>
+                        <li><a href="#filter" data-option-value=".fun">Fun</a></li>
+                        <!-- <li><a href="#filter" data-option-value=".services">Services</a></li> -->
+
+
+<!--
+{% collection "projects" order desc %}
+  {% for item in collection.items %}
+    <li><a href="#filter" data-option-value=".{{item.category}}">{{item.category}}</a></li>
+  {% endfor %}
+{% endcollection %}
+-->
+
+
+                    </ul>
+                </nav>
+                <!-- End Filter -->
+            </div>
+
+            <div class="span9">
+              <div class="row">
+                  <section id="projects">
+                      <ul id="thumbs">
+
+{% collection "projects" order desc %}{% for item in collection.items %}
+              <!-- Item Project and Filter Name -->
+                      <li class="item-thumbs span3  {{ item.category }}">
+                          <div class="image-wrap">
+                        
+                              <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                              <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="{{ item.title }}" href="{{ item.slug | append: '/banner.png' | asset_url }}">
+                           
+                                <span class="overlay-img"></span>
+                                  <span class="overlay-img-thumb font-icon-plus">
+                                       <!-- qui c'è il piu della selezione -->
+                                  </span>
+                              </a>
+
+                              <!-- Thumb Image and Description -->
+                              <img src="{{ item.slug | append: '/thumbnail.png' | asset_url }}" alt="{{ item.body }}">
+                            </div>
+                            <!-- <h3 class="profile-name">{{ item.title }}</h3> -->
+                        </li>
+            <!-- End Item Project -->
+{% endfor %}{% endcollection %}
+
+                        </ul>
+                    </section>
+
+              </div>
+            </div>
+        </div>
+        <!-- End Portfolio Projects -->
+    </div>
+</div>

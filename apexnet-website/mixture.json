@@ -1,0 +1,33 @@
+{
+  "convertHtml": {
+    "relativePaths": false
+  },
+  "debug": false,
+  "domain": null,
+  "lintScripts": false,
+  "modelSource": null,
+  "preprocessorLocations": [
+    "assets"
+  ],
+  "preprocessorScriptOutput": "output/assets/javascripts",
+  "preprocessorStyleOutput": "output/assets/stylesheets",
+  "projectDescription": "http://www.apexnet.it/",
+  "projectName": "Apex-net Web Site",
+  "publishedId": null,
+  "routes": [
+    {
+      "redirect": null,
+      "route": "portfolio/projects/:project",
+      "template": "portfolio/project"
+    }
+  ],
+  "serverHostname": null,
+  "serverPort": null,
+  "simpleModePartnerServer": null,
+  "sitemap": true,
+  "templateDefaultLayout": "layout",
+  "templateDefaultPage": "index",
+  "templateDirectory": "views",
+  "type": "mixture",
+  "useCompass": false
+}

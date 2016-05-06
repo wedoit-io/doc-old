@@ -1,0 +1,27 @@
+{
+  "folders": [
+    {
+      "path": "..",
+      "name": "Apex-net",
+      "folder_exclude_patterns": [
+        "*.sublproj",
+        "bitters",
+        "bourbon",
+        "neat",
+        "modernizr",
+        "images",
+        "converted-html",
+        ".cache",
+        "output"
+      ],
+      "file_exclude_patterns": [
+        ".keep",
+        "normalize.scss",
+        "favicon.ico",
+        "package.png",
+        "_sitemap.json",
+        "*.min.*"
+      ]
+    }
+  ]
+}

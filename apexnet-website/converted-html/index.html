@@ -1,0 +1,705 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if (IE 9)]><html class="no-js ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US"> <!--<![endif]-->
+<head>
+
+<!-- Meta Tags -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>Apex&ndash;net &mdash; Home</title>
+
+<meta name="description" content="Insert Your Site Description" />
+
+<!-- Mobile Specifics -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="HandheldFriendly" content="true"/>
+<meta name="MobileOptimized" content="320"/>
+
+<!-- Mobile Internet Explorer ClearType Technology -->
+<!--[if IEMobile]>  <meta http-equiv="cleartype" content="on">  <![endif]-->
+
+<!-- Bootstrap -->
+<link href="/assets/stylesheets/bootstrap.min.css" rel="stylesheet" type="text/css" media="all"/>
+
+<!-- Main Style -->
+<link href="/assets/stylesheets/main.min.css" rel="stylesheet" type="text/css" media="all"/>
+
+<!-- Supersized -->
+<link href="/assets/stylesheets/supersized.min.css" rel="stylesheet" type="text/css" media="all"/>
+<link href="/assets/stylesheets/supersized.shutter.min.css" rel="stylesheet" type="text/css" media="all"/>
+
+<!-- FancyBox -->
+<link href="/assets/stylesheets/fancybox/jquery.fancybox.min.css" rel="stylesheet" type="text/css" media="all"/>
+
+<!-- Font Icons -->
+<link href="/assets/stylesheets/fonts.min.css" rel="stylesheet" type="text/css" media="all"/>
+
+<!-- Shortcodes -->
+<link href="/assets/stylesheets/shortcodes.min.css" rel="stylesheet" type="text/css" media="all"/>
+
+<!-- Responsive -->
+<link href="/assets/stylesheets/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" media="all"/>
+<link href="/assets/stylesheets/responsive.min.css" rel="stylesheet" type="text/css" media="all"/>
+
+<!-- Supersized -->
+<link href="/assets/stylesheets/supersized.min.css" rel="stylesheet" type="text/css" media="all"/>
+<link href="/assets/stylesheets/supersized.shutter.min.css" rel="stylesheet" type="text/css" media="all"/>
+
+<!-- Google Font -->
+<link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,200,200italic,300,300italic,400italic,600,600italic,700,700italic,900' rel='stylesheet' type='text/css'>
+
+<!-- Fav Icon -->
+<link rel="shortcut icon" href="#">
+
+<link rel="apple-touch-icon" href="#">
+<link rel="apple-touch-icon" sizes="114x114" href="#">
+<link rel="apple-touch-icon" sizes="72x72" href="#">
+<link rel="apple-touch-icon" sizes="144x144" href="#">
+
+<!-- Modernizr -->
+<script src="/assets/javascripts/modernizr.min.js"></script>
+
+<!-- Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'Insert Your Code']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- End Analytics -->
+
+</head>
+
+
+<body>
+
+<!-- This section is for Splash Screen -->
+<div class="ole">
+<section id="jSplash">
+  <div id="circle"></div>
+</section>
+</div>
+
+<!-- End of Splash Screen -->
+
+<!-- Homepage Slider -->
+<div id="home-slider">
+    <div class="overlay"></div>
+
+    <div class="slider-text">
+      <div id="slidecaption"></div>
+    </div>
+
+  <div class="control-nav">
+        <a id="prevslide" class="load-item"><i class="font-icon-arrow-simple-left"></i></a>
+        <a id="nextslide" class="load-item"><i class="font-icon-arrow-simple-right"></i></a>
+        <ul id="slide-list"></ul>
+
+        <a id="nextsection" href="#work"><i class="font-icon-arrow-simple-down"></i></a>
+    </div>
+</div>
+
+<!-- End Homepage Slider -->
+
+<!-- Header -->
+<header>
+    <div class="sticky-nav">
+      <a id="mobile-nav" class="menu-nav" href="#menu-nav"></a>
+
+        <div id="logo">
+          <a id="goUp" href="#home-slider" title="Apex-net"></a>
+        </div>
+
+        <nav id="menu">
+          <ul id="menu-nav">
+              <li class="current"><a href="#home-slider">Home</a></li>
+                <li><a href="#work">Portfolio</a></li>
+                <!--  <li><a href="#about">About</a></li> -->
+                <li><a href="#contact">Contact us</a></li>
+<!--    <li><a href="shortcodes.html" class="external">Shortcodes</a></li>  -->
+            </ul>
+        </nav>
+
+    </div>
+</header>
+
+<!-- End Header -->
+
+<!-- Our Work Section -->
+<div id="work" class="page">
+  <div class="container">
+      <!-- Title Page -->
+        <div class="row">
+            <div class="span12">
+                <div class="title-page">
+                    <h2 class="title">Portfolio</h2>
+                    <h3 class="title-description">Check out our <span class="blue">projects</span>.</h3>
+                </div>
+            </div>
+        </div>
+        <!-- End Title Page -->
+
+        <!-- Portfolio Projects -->
+        <div class="row">
+          <div class="span3">
+              <!-- Filter -->
+                <nav id="options" class="work-nav">
+                    <ul id="filters" class="option-set" data-option-key="filter">
+                      <li class="type-work">Type of Work</li>
+                        <li><a href="#filter" data-option-value="*" class="selected">All Projects</a></li>                        
+                        <li><a href="#filter" data-option-value=".business">Business</a></li>
+                        <li><a href="#filter" data-option-value=".educational">Educational</a></li>
+                        <li><a href="#filter" data-option-value=".insurance">Insurance</a></li>
+                        <li><a href="#filter" data-option-value=".fun">Fun</a></li>
+                        <!-- <li><a href="#filter" data-option-value=".services">Services</a></li> -->
+
+
+<!--
+
+  
+    <li><a href="#filter" data-option-value=".business">business</a></li>
+  
+    <li><a href="#filter" data-option-value=".educational">educational</a></li>
+  
+    <li><a href="#filter" data-option-value=".business">business</a></li>
+  
+    <li><a href="#filter" data-option-value=".educational">educational</a></li>
+  
+    <li><a href="#filter" data-option-value=".fun">fun</a></li>
+  
+    <li><a href="#filter" data-option-value=".business">business</a></li>
+  
+    <li><a href="#filter" data-option-value=".business">business</a></li>
+  
+    <li><a href="#filter" data-option-value=".business">business</a></li>
+  
+    <li><a href="#filter" data-option-value=".fun">fun</a></li>
+  
+    <li><a href="#filter" data-option-value=".business">business</a></li>
+  
+    <li><a href="#filter" data-option-value=".business">business</a></li>
+  
+    <li><a href="#filter" data-option-value=".educational">educational</a></li>
+  
+    <li><a href="#filter" data-option-value=".business">business</a></li>
+  
+    <li><a href="#filter" data-option-value=".insurance">insurance</a></li>
+  
+    <li><a href="#filter" data-option-value=".educational">educational</a></li>
+  
+
+-->
+
+
+                    </ul>
+                </nav>
+                <!-- End Filter -->
+            </div>
+
+            <div class="span9">
+              <div class="row">
+                  <section id="projects">
+                      <ul id="thumbs">
+
+
+              <!-- Item Project and Filter Name -->
+                      <li class="item-thumbs span3  business">
+                          <div class="image-wrap">
+                        
+                              <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                              <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="wTrendy" href="/assets/images/projects/wtrendy/banner.png">
+                           
+                                <span class="overlay-img"></span>
+                                  <span class="overlay-img-thumb font-icon-plus">
+                                       <!-- qui c'è il piu della selezione -->
+                                  </span>
+                              </a>
+
+                              <!-- Thumb Image and Description -->
+                              <img src="/assets/images/projects/wtrendy/thumbnail.png" alt="
+<p>Donwload it from the &lt;a href=http://goo.gl/kd0e9V class=”selected” target “_blank”&gt;AppStore&lt;/a&gt;</p>
+
+">
+                            </div>
+                            <!-- <h3 class="profile-name">wTrendy</h3> -->
+                        </li>
+            <!-- End Item Project -->
+
+              <!-- Item Project and Filter Name -->
+                      <li class="item-thumbs span3  educational">
+                          <div class="image-wrap">
+                        
+                              <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                              <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="University Planner" href="/assets/images/projects/university-planner/banner.png">
+                           
+                                <span class="overlay-img"></span>
+                                  <span class="overlay-img-thumb font-icon-plus">
+                                       <!-- qui c'è il piu della selezione -->
+                                  </span>
+                              </a>
+
+                              <!-- Thumb Image and Description -->
+                              <img src="/assets/images/projects/university-planner/thumbnail.png" alt="
+<p>University Planner è un sofisticato sistema per la pianificazione logistica di ateneo: gestisce la calendarizzazione e l’occupazione delle aule in una visione appositamente pensata per le università.</p>
+
+<p>Decine di università italiane utilizzano University Planner</p>
+">
+                            </div>
+                            <!-- <h3 class="profile-name">University Planner</h3> -->
+                        </li>
+            <!-- End Item Project -->
+
+              <!-- Item Project and Filter Name -->
+                      <li class="item-thumbs span3  business">
+                          <div class="image-wrap">
+                        
+                              <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                              <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="iZ" href="/assets/images/projects/iz/banner.png">
+                           
+                                <span class="overlay-img"></span>
+                                  <span class="overlay-img-thumb font-icon-plus">
+                                       <!-- qui c'è il piu della selezione -->
+                                  </span>
+                              </a>
+
+                              <!-- Thumb Image and Description -->
+                              <img src="/assets/images/projects/iz/thumbnail.png" alt="
+">
+                            </div>
+                            <!-- <h3 class="profile-name">iZ</h3> -->
+                        </li>
+            <!-- End Item Project -->
+
+              <!-- Item Project and Filter Name -->
+                      <li class="item-thumbs span3  educational">
+                          <div class="image-wrap">
+                        
+                              <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                              <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="iUniversity" href="/assets/images/projects/iuniversity/banner.png">
+                           
+                                <span class="overlay-img"></span>
+                                  <span class="overlay-img-thumb font-icon-plus">
+                                       <!-- qui c'è il piu della selezione -->
+                                  </span>
+                              </a>
+
+                              <!-- Thumb Image and Description -->
+                              <img src="/assets/images/projects/iuniversity/thumbnail.png" alt="
+<p>Con iUniversity gli studenti di molte università italiane prenotano gli esami rimangono connessi col loro ateneo.<br />
+&lt;a href=https://itunes.apple.com/it/app/ibocconi/id439889963?mt=8 class=”selected” target “_blank”&gt;Bocconi&lt;/a&gt;, &lt;a href=https://itunes.apple.com/it/app/iunits/id455203876?mt=8   class=”selected” target “_blank”&gt;Trieste&lt;/a&gt;, &lt;a href=https://itunes.apple.com/it/app/myunica/id446172114?mt=8  class=”selected” target “_blank”&gt;Cagliari&lt;/a&gt; usano ogni giorno iUniversity.</p>
+
+<p>Sviluppata per &lt;a href=http://www.cineca.it  class=”selected” target “_blank”&gt;Cineca&lt;/a&gt; </p>
+">
+                            </div>
+                            <!-- <h3 class="profile-name">iUniversity</h3> -->
+                        </li>
+            <!-- End Item Project -->
+
+              <!-- Item Project and Filter Name -->
+                      <li class="item-thumbs span3  fun">
+                          <div class="image-wrap">
+                        
+                              <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                              <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="iMortacci" href="/assets/images/projects/imortacci/banner.png">
+                           
+                                <span class="overlay-img"></span>
+                                  <span class="overlay-img-thumb font-icon-plus">
+                                       <!-- qui c'è il piu della selezione -->
+                                  </span>
+                              </a>
+
+                              <!-- Thumb Image and Description -->
+                              <img src="/assets/images/projects/imortacci/thumbnail.png" alt="
+<p>Donwload it from the &lt;a href=http://goo.gl/N2tlDP class=”selected” target “_blank”&gt;AppStore&lt;/a&gt; or the &lt;a href=http://goo.gl/hGNVeM class=”selected” target “_blank”&gt;PlayStore&lt;/a&gt;</p>
+">
+                            </div>
+                            <!-- <h3 class="profile-name">iMortacci</h3> -->
+                        </li>
+            <!-- End Item Project -->
+
+              <!-- Item Project and Filter Name -->
+                      <li class="item-thumbs span3  business">
+                          <div class="image-wrap">
+                        
+                              <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                              <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="iMecc" href="/assets/images/projects/imecc/banner.png">
+                           
+                                <span class="overlay-img"></span>
+                                  <span class="overlay-img-thumb font-icon-plus">
+                                       <!-- qui c'è il piu della selezione -->
+                                  </span>
+                              </a>
+
+                              <!-- Thumb Image and Description -->
+                              <img src="/assets/images/projects/imecc/thumbnail.png" alt="
+<p>Donwload it from the &lt;a href=http://goo.gl/EJhBCR class=”selected” target “_blank”&gt;AppStore&lt;/a&gt;</p>
+">
+                            </div>
+                            <!-- <h3 class="profile-name">iMecc</h3> -->
+                        </li>
+            <!-- End Item Project -->
+
+              <!-- Item Project and Filter Name -->
+                      <li class="item-thumbs span3  business">
+                          <div class="image-wrap">
+                        
+                              <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                              <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="iGamma" href="/assets/images/projects/igamma/banner.png">
+                           
+                                <span class="overlay-img"></span>
+                                  <span class="overlay-img-thumb font-icon-plus">
+                                       <!-- qui c'è il piu della selezione -->
+                                  </span>
+                              </a>
+
+                              <!-- Thumb Image and Description -->
+                              <img src="/assets/images/projects/igamma/thumbnail.png" alt="
+<p>Donwload it from the &lt;a href=http://goo.gl/5UAudW class=”selected” target “_blank”&gt;AppStore&lt;/a&gt;</p>
+">
+                            </div>
+                            <!-- <h3 class="profile-name">iGamma</h3> -->
+                        </li>
+            <!-- End Item Project -->
+
+              <!-- Item Project and Filter Name -->
+                      <li class="item-thumbs span3  business">
+                          <div class="image-wrap">
+                        
+                              <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                              <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="iCommerce" href="/assets/images/projects/icommerce/banner.png">
+                           
+                                <span class="overlay-img"></span>
+                                  <span class="overlay-img-thumb font-icon-plus">
+                                       <!-- qui c'è il piu della selezione -->
+                                  </span>
+                              </a>
+
+                              <!-- Thumb Image and Description -->
+                              <img src="/assets/images/projects/icommerce/thumbnail.png" alt="
+<p>Donwload it from the &lt;a href=http://goo.gl/rVfujA class=”selected” target “_blank”&gt;AppStore&lt;/a&gt;</p>
+">
+                            </div>
+                            <!-- <h3 class="profile-name">iCommerce</h3> -->
+                        </li>
+            <!-- End Item Project -->
+
+              <!-- Item Project and Filter Name -->
+                      <li class="item-thumbs span3  fun">
+                          <div class="image-wrap">
+                        
+                              <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                              <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="iCalcio" href="/assets/images/projects/icalcio/banner.png">
+                           
+                                <span class="overlay-img"></span>
+                                  <span class="overlay-img-thumb font-icon-plus">
+                                       <!-- qui c'è il piu della selezione -->
+                                  </span>
+                              </a>
+
+                              <!-- Thumb Image and Description -->
+                              <img src="/assets/images/projects/icalcio/thumbnail.png" alt="
+<p>Rimani collegato con la tua squadra del cuore.<br />
+Disponibile per molte squadre di serie A, scarica la tua app.</p>
+">
+                            </div>
+                            <!-- <h3 class="profile-name">iCalcio</h3> -->
+                        </li>
+            <!-- End Item Project -->
+
+              <!-- Item Project and Filter Name -->
+                      <li class="item-thumbs span3  business">
+                          <div class="image-wrap">
+                        
+                              <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                              <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="iB" href="/assets/images/projects/ib/banner.png">
+                           
+                                <span class="overlay-img"></span>
+                                  <span class="overlay-img-thumb font-icon-plus">
+                                       <!-- qui c'è il piu della selezione -->
+                                  </span>
+                              </a>
+
+                              <!-- Thumb Image and Description -->
+                              <img src="/assets/images/projects/ib/thumbnail.png" alt="
+<p>Donwload it from the &lt;a href=http://goo.gl/E4AzUZ class=”selected” target “_blank”&gt;AppStore&lt;/a&gt;</p>
+">
+                            </div>
+                            <!-- <h3 class="profile-name">iB</h3> -->
+                        </li>
+            <!-- End Item Project -->
+
+              <!-- Item Project and Filter Name -->
+                      <li class="item-thumbs span3  business">
+                          <div class="image-wrap">
+                        
+                              <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                              <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Easy PIR" href="/assets/images/projects/easypir/banner.png">
+                           
+                                <span class="overlay-img"></span>
+                                  <span class="overlay-img-thumb font-icon-plus">
+                                       <!-- qui c'è il piu della selezione -->
+                                  </span>
+                              </a>
+
+                              <!-- Thumb Image and Description -->
+                              <img src="/assets/images/projects/easypir/thumbnail.png" alt="
+<p>Easy PIR è la nuova App pensata per i Clienti del Gruppo PIR.<br />
+Con Easy PIR hai accesso immediato ai principali dati relativi ai tuoi prodotti in stoccaggio presso i terminal del Gruppo PIR.<br />
+Il quantitativo dei prodotti in giacenza, il livello di riempimento dei singoli serbatoi e le riconsegne effettuate nella giornata, saranno sempre a portata di mano direttamente sul tuo dispositivo mobile!</p>
+">
+                            </div>
+                            <!-- <h3 class="profile-name">Easy PIR</h3> -->
+                        </li>
+            <!-- End Item Project -->
+
+              <!-- Item Project and Filter Name -->
+                      <li class="item-thumbs span3  educational">
+                          <div class="image-wrap">
+                        
+                              <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                              <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Clicker" href="/assets/images/projects/clicker/banner.png">
+                           
+                                <span class="overlay-img"></span>
+                                  <span class="overlay-img-thumb font-icon-plus">
+                                       <!-- qui c'è il piu della selezione -->
+                                  </span>
+                              </a>
+
+                              <!-- Thumb Image and Description -->
+                              <img src="/assets/images/projects/clicker/thumbnail.png" alt="
+<p>Clicker consente agli studenti di partecipare attivamente alle lezioni in aula rispondendo alle domande poste dai professori.<br />
+Questa tecnologia porta ai massimi livelli l’interazione di classe, permettendo ai docenti il monitoraggio del livello di conoscenza con precisione e puntualità.</p>
+
+<p>Clicker è stato scelta dall’Università &lt;a href=http://www.unibocconi.it class=”selected” target “_blank”&gt;Bocconi&lt;/a&gt;</p>
+">
+                            </div>
+                            <!-- <h3 class="profile-name">Clicker</h3> -->
+                        </li>
+            <!-- End Item Project -->
+
+              <!-- Item Project and Filter Name -->
+                      <li class="item-thumbs span3  business">
+                          <div class="image-wrap">
+                        
+                              <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                              <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="CIM" href="/assets/images/projects/cim/banner.png">
+                           
+                                <span class="overlay-img"></span>
+                                  <span class="overlay-img-thumb font-icon-plus">
+                                       <!-- qui c'è il piu della selezione -->
+                                  </span>
+                              </a>
+
+                              <!-- Thumb Image and Description -->
+                              <img src="/assets/images/projects/cim/thumbnail.png" alt="
+">
+                            </div>
+                            <!-- <h3 class="profile-name">CIM</h3> -->
+                        </li>
+            <!-- End Item Project -->
+
+              <!-- Item Project and Filter Name -->
+                      <li class="item-thumbs span3  insurance">
+                          <div class="image-wrap">
+                        
+                              <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                              <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Allie" href="/assets/images/projects/allie/banner.png">
+                           
+                                <span class="overlay-img"></span>
+                                  <span class="overlay-img-thumb font-icon-plus">
+                                       <!-- qui c'è il piu della selezione -->
+                                  </span>
+                              </a>
+
+                              <!-- Thumb Image and Description -->
+                              <img src="/assets/images/projects/allie/thumbnail.png" alt="
+<p>Mi attivi su internet e mi installi facilmente sulla tua auto. Sono collegato a una Centrale Operativa e al tuo smartphone, so sempre dove si trova la tua vettura grazie al mio localizzatore GPS e sono in grado di chiedere assistenza immediata in caso di guasto o incidente. Ma faccio molto di più, grazie a tanti servizi disponibili sulla mia applicazione.</p>
+
+<p>Sviluppata per &lt;a href=http://www.allie.it class=”selected” target “_blank”&gt;Allianz Assicurazioni&lt;/a&gt; </p>
+">
+                            </div>
+                            <!-- <h3 class="profile-name">Allie</h3> -->
+                        </li>
+            <!-- End Item Project -->
+
+              <!-- Item Project and Filter Name -->
+                      <li class="item-thumbs span3  educational">
+                          <div class="image-wrap">
+                        
+                              <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                              <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Admissions" href="/assets/images/projects/admissions/banner.png">
+                           
+                                <span class="overlay-img"></span>
+                                  <span class="overlay-img-thumb font-icon-plus">
+                                       <!-- qui c'è il piu della selezione -->
+                                  </span>
+                              </a>
+
+                              <!-- Thumb Image and Description -->
+                              <img src="/assets/images/projects/admissions/thumbnail.png" alt="
+<p>Admissions gestisce l’intero flusso operativo e organizzativo di un ateneo.<br />
+&lt;a href=http://www.unibocconi.it class=”selected” target “_blank”&gt;Bocconi&lt;/a&gt; ha scelto Admissions</p>
+">
+                            </div>
+                            <!-- <h3 class="profile-name">Admissions</h3> -->
+                        </li>
+            <!-- End Item Project -->
+
+
+                        </ul>
+                    </section>
+
+              </div>
+            </div>
+        </div>
+        <!-- End Portfolio Projects -->
+    </div>
+</div>
+
+<!-- End Our Work Section -->
+
+<!-- About Section -->
+
+<!-- End About Section -->
+
+
+<!-- Contact Section -->
+<div id="contact" class="page">
+<div class="container">
+    <!-- Title Page -->
+    <div class="row">
+        <div class="span12">
+            <div class="title-page">
+                <h2 class="title">Get in touch</h2>
+                <h3 class="title-description">We’re currently accepting <span class="blue">new client projects</span>. We look forward to serving you.</h3>
+            </div>
+        </div>
+    </div>
+    <!-- End Title Page -->
+
+    <!-- Contact Form -->
+    <div class="row">
+      <div class="span9">
+
+          <form id="contact-form" class="contact-form" action="#">
+              <p class="contact-name">
+                <input id="contact_name" type="text" placeholder="Full Name" value="" name="name" />
+                </p>
+                <p class="contact-email">
+                  <input id="contact_email" type="text" placeholder="Email Address" value="" name="email" />
+                </p>
+                <p class="contact-message">
+                  <textarea id="contact_message" placeholder="Your Message" name="message" rows="15" cols="40"></textarea>
+                </p>
+                <p class="contact-submit">
+                  <a id="contact-submit" class="submit" href="#">Send Your Email</a>
+                </p>
+
+                <div id="response">
+
+                </div>
+            </form>
+
+        </div>
+
+        <div class="span3">
+            <div class="contact-details">
+              <h3>Contact Details</h3>
+                <ul>
+                    <li><a href="#">info@apexnet.it</a></li>
+                    <li>+39 0547 1902799</li>
+                    <li>
+                        Apex&ndash;net S.r.l.
+                        <br>
+                        Via Cerchia di San Giorgio, 145 <br>47521 Cesena (FC)
+                    </li>
+                      <li> <a href="assets/images/certificate.pdf" target="_blank" ><img src="assets/images/quality1.png" alt="Quality Logo"/></a></li> 
+                </ul>
+            </div>
+          </div>
+    </div>
+    <!-- End Contact Form -->
+</div>
+</div>
+
+<!-- End Contact Section -->
+
+
+
+<!-- Socialize -->
+<div id="social-area" class="page">
+  <div class="container">
+      <div class="row">
+            <div class="span12">
+                <nav id="social">
+                    <ul>
+                        <li><a href="https://twitter.com/apexnetgroup" title="Follow Me on Twitter" target="_blank"><span class="font-icon-social-twitter"></span></a></li>
+                        <li><a href="https://www.facebook.com/apexnetsrl" title="Follow Me on Facebook" target="_blank"><span class="font-icon-social-facebook"></span></a></li>
+                        <li><a href="https://plus.google.com/110242461782409523151/about" title="Follow Me on Google Plus" target="_blank"><span class="font-icon-social-google-plus"></span></a></li>
+                        <li><a href="https://www.youtube.com/user/apexnetsrl" title="Follow Me on Youtube" target="_blank"><span class="font-icon-social-youtube"></span></a></li>       
+                        
+                        <!--
+                        <li><a href="http://dribbble.com/Bluxart" title="Follow Me on Dribbble" target="_blank"><span class="font-icon-social-dribbble"></span></a></li>
+                        <li><a href="http://forrst.com/people/Bluxart" title="Follow Me on Forrst" target="_blank"><span class="font-icon-social-forrst"></span></a></li>
+                        <li><a href="http://www.behance.net/alessioatzeni" title="Follow Me on Behance" target="_blank"><span class="font-icon-social-behance"></span></a></li>
+                        <li><a href="http://www.linkedin.com/in/alessioatzeni" title="Follow Me on LinkedIn" target="_blank"><span class="font-icon-social-linkedin"></span></a></li>
+                        <li><a href="http://themeforest.net/user/Bluxart" title="Follow Me on ThemeForest" target="_blank"><span class="font-icon-social-envato"></span></a></li>
+                        <li><a href="http://zerply.com/Bluxart/public" title="Follow Me on Zerply" target="_blank"><span class="font-icon-social-zerply"></span></a></li>
+                        -->
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- End Socialize -->
+
+<!-- Footer -->
+<footer>
+  <p class="credits">Apex–net S.r.l. - p.iva 03882430402</p>
+  <!--
+  <p class="credits">&copy;2013 Brushed. <a href="http://themes.alessioatzeni.com/html/brushed/" title="Brushed | Responsive One Page Template">Brushed Template</a> by <a href="http://www.alessioatzeni.com/" title="Alessio Atzeni | Web Designer &amp; Front-end Developer">Alessio Atzeni</a></p>
+  -->
+</footer>
+
+<!-- End Footer -->
+
+<!-- Back To Top -->
+<a id="back-to-top" href="#">
+	<i class="font-icon-arrow-simple-up"></i>
+</a>
+<!-- End Back to Top -->
+
+
+<!-- Js -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script> <!-- jQuery Core -->
+<script src="/assets/javascripts/bootstrap.min.js"></script> <!-- Bootstrap -->
+<script src="/assets/javascripts/supersized.3.2.7.min.js"></script> <!-- Slider -->
+<script src="/assets/javascripts/waypoints.min.js"></script> <!-- WayPoints -->
+<script src="/assets/javascripts/waypoints-sticky.min.js"></script> <!-- Waypoints for Header -->
+<script src="/assets/javascripts/jquery.isotope.min.js"></script> <!-- Isotope Filter -->
+<script src="/assets/javascripts/jquery.fancybox.pack.min.js"></script> <!-- Fancybox -->
+<script src="/assets/javascripts/jquery.fancybox-media.min.js"></script> <!-- Fancybox for Media -->
+<script src="/assets/javascripts/jquery.tweet.min.js"></script> <!-- Tweet -->
+<script src="/assets/javascripts/plugins.min.js"></script> <!-- Contains: jPreloader, jQuery Easing, jQuery ScrollTo, jQuery One Page Navi -->
+<script src="/assets/javascripts/parse.min.js"></script>
+<script src="/assets/javascripts/main.min.js"></script> <!-- Default JS -->
+<!-- End Js -->
+
+  <script type="text/javascript">
+    Parse.initialize("8JoGexoYKhIiS1KrMesYyqXScsvWQ0tNQa5MZ1dE", "xELKubuROi2JelZ5Mh5IqYI8ed7Tb0Ik7wnk78vP");
+  </script>
+</body>
+</html>

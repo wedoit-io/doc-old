@@ -1,0 +1,879 @@
+{
+  "/collections/about/about.md": {
+    "Prefix": "about",
+    "Url": "/about/about",
+    "Date": "2015-07-21T16:04:00+02:00",
+    "FilePath": "/collections/about/about.md",
+    "Published": true,
+    "Meta": {
+      "published": true,
+      "date": "2015-07-21T16:04:00+02:00",
+      "slug": "/about/about",
+      "body": "\n<p>Ci piace immaginare un mondo semplice e intuitivo.</p>\n\n<p>Sono le linee guida delle nostre applicazioni. Diamo un anima alle tecnologie più attuali, trasformandole in progetti globali per l’azienda. Lavorare meglio significa più business e nuovi desideri.</p>\n\n<p>Crediamo nelle persone, ed è per loro che lavoriamo.</p>\n"
+    }
+  },
+  "/collections/clients/alessandro-mariani.md": {
+    "Prefix": "clients",
+    "Url": "/clients/alessandro-mariani",
+    "Date": "2013-01-08T00:00:00Z",
+    "FilePath": "/collections/clients/alessandro-mariani.md",
+    "Published": true,
+    "Meta": {
+      "name": "Alessandro Mariani",
+      "role": "developer",
+      "published": true,
+      "date": "2013-01-08T00:00:00Z",
+      "slug": "/clients/alessandro-mariani",
+      "body": "\n"
+    }
+  },
+  "/collections/clients/bocconi.md": {
+    "Prefix": "clients",
+    "Url": "/clients/bocconi",
+    "Date": "2015-07-21T16:04:00+02:00",
+    "FilePath": "/collections/clients/bocconi.md",
+    "Published": true,
+    "Meta": {
+      "link": "http://www.unibocconi.it/",
+      "featured": true,
+      "published": true,
+      "date": "2015-07-21T16:04:00+02:00",
+      "slug": "/clients/bocconi",
+      "body": "\n"
+    }
+  },
+  "/collections/clients/cineca.md": {
+    "Prefix": "clients",
+    "Url": "/clients/cineca",
+    "Date": "2015-07-21T16:04:00+02:00",
+    "FilePath": "/collections/clients/cineca.md",
+    "Published": true,
+    "Meta": {
+      "link": "http://www.cineca.it/",
+      "featured": true,
+      "published": true,
+      "date": "2015-07-21T16:04:00+02:00",
+      "slug": "/clients/cineca",
+      "body": "\n"
+    }
+  },
+  "/collections/clients/inail.md": {
+    "Prefix": "clients",
+    "Url": "/clients/inail",
+    "Date": "2015-07-21T16:04:00+02:00",
+    "FilePath": "/collections/clients/inail.md",
+    "Published": true,
+    "Meta": {
+      "link": "http://www.inail.it/",
+      "featured": true,
+      "published": true,
+      "date": "2015-07-21T16:04:00+02:00",
+      "slug": "/clients/inail",
+      "body": "\n"
+    }
+  },
+  "/collections/clients/kion.md": {
+    "Prefix": "clients",
+    "Url": "/clients/kion",
+    "Date": "2015-07-21T16:04:00+02:00",
+    "FilePath": "/collections/clients/kion.md",
+    "Published": true,
+    "Meta": {
+      "link": "http://www.kion.it/",
+      "featured": true,
+      "published": true,
+      "date": "2015-07-21T16:04:00+02:00",
+      "slug": "/clients/kion",
+      "body": "\n"
+    }
+  },
+  "/collections/projects/admissions.md": {
+    "Prefix": "projects",
+    "Url": "/projects/admissions",
+    "Date": "2014-01-01T00:00:00Z",
+    "FilePath": "/collections/projects/admissions.md",
+    "Published": true,
+    "Meta": {
+      "title": "Admissions",
+      "category": "educational",
+      "featured": true,
+      "published": true,
+      "date": "2014-01-01T00:00:00Z",
+      "slug": "/projects/admissions",
+      "body": "\n<p>Admissions gestisce l’intero flusso operativo e organizzativo di un ateneo.<br />\n&lt;a href=http://www.unibocconi.it class=”selected” target “_blank”&gt;Bocconi&lt;/a&gt; ha scelto Admissions</p>\n"
+    }
+  },
+  "/collections/projects/allie.md": {
+    "Prefix": "projects",
+    "Url": "/projects/allie",
+    "Date": "2014-01-01T00:00:00Z",
+    "FilePath": "/collections/projects/allie.md",
+    "Published": true,
+    "Meta": {
+      "title": "Allie",
+      "category": "insurance",
+      "featured": true,
+      "published": true,
+      "date": "2014-01-01T00:00:00Z",
+      "slug": "/projects/allie",
+      "body": "\n<p>Mi attivi su internet e mi installi facilmente sulla tua auto. Sono collegato a una Centrale Operativa e al tuo smartphone, so sempre dove si trova la tua vettura grazie al mio localizzatore GPS e sono in grado di chiedere assistenza immediata in caso di guasto o incidente. Ma faccio molto di più, grazie a tanti servizi disponibili sulla mia applicazione.</p>\n\n<p>Sviluppata per &lt;a href=http://www.allie.it class=”selected” target “_blank”&gt;Allianz Assicurazioni&lt;/a&gt; </p>\n"
+    }
+  },
+  "/collections/projects/atipico.md": {
+    "Prefix": "projects",
+    "Url": "/projects/atipico",
+    "Date": "2014-01-01T00:00:00Z",
+    "FilePath": "/collections/projects/atipico.md",
+    "Published": false,
+    "Meta": {
+      "title": "Atipico",
+      "category": "others",
+      "featured": true,
+      "published": false,
+      "date": "2014-01-01T00:00:00Z",
+      "slug": "/projects/atipico",
+      "body": "\n<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod<br />\ntempor incididunt ut labore et dolore magna aliqua. Ut enim </p>\n"
+    }
+  },
+  "/collections/projects/business.md": {
+    "Prefix": "projects",
+    "Url": "/projects/business",
+    "Date": "2014-01-01T00:00:00Z",
+    "FilePath": "/collections/projects/business.md",
+    "Published": false,
+    "Meta": {
+      "title": "Business",
+      "category": "business",
+      "featured": true,
+      "published": false,
+      "date": "2014-01-01T00:00:00Z",
+      "slug": "/projects/business",
+      "body": "\n<p>L’applicazione per il settore calzaturiero</p>\n"
+    }
+  },
+  "/collections/projects/cim.md": {
+    "Prefix": "projects",
+    "Url": "/projects/cim",
+    "Date": "2014-01-01T00:00:00Z",
+    "FilePath": "/collections/projects/cim.md",
+    "Published": true,
+    "Meta": {
+      "title": "CIM",
+      "category": "business",
+      "featured": true,
+      "published": true,
+      "date": "2014-01-01T00:00:00Z",
+      "slug": "/projects/cim",
+      "body": "\n"
+    }
+  },
+  "/collections/projects/clicker.md": {
+    "Prefix": "projects",
+    "Url": "/projects/clicker",
+    "Date": "2014-01-01T00:00:00Z",
+    "FilePath": "/collections/projects/clicker.md",
+    "Published": true,
+    "Meta": {
+      "title": "Clicker",
+      "category": "educational",
+      "featured": true,
+      "published": true,
+      "date": "2014-01-01T00:00:00Z",
+      "slug": "/projects/clicker",
+      "body": "\n<p>Clicker consente agli studenti di partecipare attivamente alle lezioni in aula rispondendo alle domande poste dai professori.<br />\nQuesta tecnologia porta ai massimi livelli l’interazione di classe, permettendo ai docenti il monitoraggio del livello di conoscenza con precisione e puntualità.</p>\n\n<p>Clicker è stato scelta dall’Università &lt;a href=http://www.unibocconi.it class=”selected” target “_blank”&gt;Bocconi&lt;/a&gt;</p>\n"
+    }
+  },
+  "/collections/projects/csharp.md": {
+    "Prefix": "projects",
+    "Url": "/projects/csharp",
+    "Date": "2014-01-01T00:00:00Z",
+    "FilePath": "/collections/projects/csharp.md",
+    "Published": false,
+    "Meta": {
+      "title": "C#",
+      "category": "services",
+      "featured": true,
+      "published": false,
+      "date": "2014-01-01T00:00:00Z",
+      "slug": "/projects/csharp",
+      "body": "\n<p>L’applicazione per il settore calzaturiero</p>\n"
+    }
+  },
+  "/collections/projects/easypir.md": {
+    "Prefix": "projects",
+    "Url": "/projects/easypir",
+    "Date": "2014-01-01T00:00:00Z",
+    "FilePath": "/collections/projects/easypir.md",
+    "Published": true,
+    "Meta": {
+      "title": "Easy PIR",
+      "category": "business",
+      "featured": true,
+      "published": true,
+      "date": "2014-01-01T00:00:00Z",
+      "slug": "/projects/easypir",
+      "body": "\n<p>Easy PIR è la nuova App pensata per i Clienti del Gruppo PIR.<br />\nCon Easy PIR hai accesso immediato ai principali dati relativi ai tuoi prodotti in stoccaggio presso i terminal del Gruppo PIR.<br />\nIl quantitativo dei prodotti in giacenza, il livello di riempimento dei singoli serbatoi e le riconsegne effettuate nella giornata, saranno sempre a portata di mano direttamente sul tuo dispositivo mobile!</p>\n"
+    }
+  },
+  "/collections/projects/ib.md": {
+    "Prefix": "projects",
+    "Url": "/projects/ib",
+    "Date": "2014-01-01T00:00:00Z",
+    "FilePath": "/collections/projects/ib.md",
+    "Published": true,
+    "Meta": {
+      "title": "iB",
+      "category": "business",
+      "featured": true,
+      "published": true,
+      "date": "2014-01-01T00:00:00Z",
+      "slug": "/projects/ib",
+      "body": "\n<p>Donwload it from the &lt;a href=http://goo.gl/E4AzUZ class=”selected” target “_blank”&gt;AppStore&lt;/a&gt;</p>\n"
+    }
+  },
+  "/collections/projects/ibocconi.md": {
+    "Prefix": "projects",
+    "Url": "/projects/ibocconi",
+    "Date": "2014-01-01T00:00:00Z",
+    "FilePath": "/collections/projects/ibocconi.md",
+    "Published": false,
+    "Meta": {
+      "title": "iBocconi",
+      "category": "educational",
+      "featured": true,
+      "published": false,
+      "date": "2014-01-01T00:00:00Z",
+      "slug": "/projects/ibocconi",
+      "body": "\n<p>L’applicazione per il settore calzaturiero</p>\n"
+    }
+  },
+  "/collections/projects/icalcio.md": {
+    "Prefix": "projects",
+    "Url": "/projects/icalcio",
+    "Date": "2014-01-01T00:00:00Z",
+    "FilePath": "/collections/projects/icalcio.md",
+    "Published": true,
+    "Meta": {
+      "title": "iCalcio",
+      "category": "fun",
+      "featured": true,
+      "published": true,
+      "date": "2014-01-01T00:00:00Z",
+      "slug": "/projects/icalcio",
+      "body": "\n<p>Rimani collegato con la tua squadra del cuore.<br />\nDisponibile per molte squadre di serie A, scarica la tua app.</p>\n"
+    }
+  },
+  "/collections/projects/icommerce.md": {
+    "Prefix": "projects",
+    "Url": "/projects/icommerce",
+    "Date": "2014-01-01T00:00:00Z",
+    "FilePath": "/collections/projects/icommerce.md",
+    "Published": true,
+    "Meta": {
+      "title": "iCommerce",
+      "category": "business",
+      "featured": true,
+      "published": true,
+      "date": "2014-01-01T00:00:00Z",
+      "slug": "/projects/icommerce",
+      "body": "\n<p>Donwload it from the &lt;a href=http://goo.gl/rVfujA class=”selected” target “_blank”&gt;AppStore&lt;/a&gt;</p>\n"
+    }
+  },
+  "/collections/projects/igamma.md": {
+    "Prefix": "projects",
+    "Url": "/projects/igamma",
+    "Date": "2014-01-01T00:00:00Z",
+    "FilePath": "/collections/projects/igamma.md",
+    "Published": true,
+    "Meta": {
+      "title": "iGamma",
+      "category": "business",
+      "featured": true,
+      "published": true,
+      "date": "2014-01-01T00:00:00Z",
+      "slug": "/projects/igamma",
+      "body": "\n<p>Donwload it from the &lt;a href=http://goo.gl/5UAudW class=”selected” target “_blank”&gt;AppStore&lt;/a&gt;</p>\n"
+    }
+  },
+  "/collections/projects/imecc.md": {
+    "Prefix": "projects",
+    "Url": "/projects/imecc",
+    "Date": "2014-01-01T00:00:00Z",
+    "FilePath": "/collections/projects/imecc.md",
+    "Published": true,
+    "Meta": {
+      "title": "iMecc",
+      "category": "business",
+      "featured": true,
+      "published": true,
+      "date": "2014-01-01T00:00:00Z",
+      "slug": "/projects/imecc",
+      "body": "\n<p>Donwload it from the &lt;a href=http://goo.gl/EJhBCR class=”selected” target “_blank”&gt;AppStore&lt;/a&gt;</p>\n"
+    }
+  },
+  "/collections/projects/imortacci.md": {
+    "Prefix": "projects",
+    "Url": "/projects/imortacci",
+    "Date": "2014-01-01T00:00:00Z",
+    "FilePath": "/collections/projects/imortacci.md",
+    "Published": true,
+    "Meta": {
+      "title": "iMortacci",
+      "category": "fun",
+      "featured": true,
+      "published": true,
+      "date": "2014-01-01T00:00:00Z",
+      "slug": "/projects/imortacci",
+      "body": "\n<p>Donwload it from the &lt;a href=http://goo.gl/N2tlDP class=”selected” target “_blank”&gt;AppStore&lt;/a&gt; or the &lt;a href=http://goo.gl/hGNVeM class=”selected” target “_blank”&gt;PlayStore&lt;/a&gt;</p>\n"
+    }
+  },
+  "/collections/projects/iuniversity.md": {
+    "Prefix": "projects",
+    "Url": "/projects/iuniversity",
+    "Date": "2014-01-01T00:00:00Z",
+    "FilePath": "/collections/projects/iuniversity.md",
+    "Published": true,
+    "Meta": {
+      "title": "iUniversity",
+      "category": "educational",
+      "featured": true,
+      "published": true,
+      "date": "2014-01-01T00:00:00Z",
+      "slug": "/projects/iuniversity",
+      "body": "\n<p>Con iUniversity gli studenti di molte università italiane prenotano gli esami rimangono connessi col loro ateneo.<br />\n&lt;a href=https://itunes.apple.com/it/app/ibocconi/id439889963?mt=8 class=”selected” target “_blank”&gt;Bocconi&lt;/a&gt;, &lt;a href=https://itunes.apple.com/it/app/iunits/id455203876?mt=8   class=”selected” target “_blank”&gt;Trieste&lt;/a&gt;, &lt;a href=https://itunes.apple.com/it/app/myunica/id446172114?mt=8  class=”selected” target “_blank”&gt;Cagliari&lt;/a&gt; usano ogni giorno iUniversity.</p>\n\n<p>Sviluppata per &lt;a href=http://www.cineca.it  class=”selected” target “_blank”&gt;Cineca&lt;/a&gt; </p>\n"
+    }
+  },
+  "/collections/projects/iz.md": {
+    "Prefix": "projects",
+    "Url": "/projects/iz",
+    "Date": "2014-01-01T00:00:00Z",
+    "FilePath": "/collections/projects/iz.md",
+    "Published": true,
+    "Meta": {
+      "title": "iZ",
+      "category": "business",
+      "featured": true,
+      "published": true,
+      "date": "2014-01-01T00:00:00Z",
+      "slug": "/projects/iz",
+      "body": "\n"
+    }
+  },
+  "/collections/projects/java.md": {
+    "Prefix": "projects",
+    "Url": "/projects/java",
+    "Date": "2014-01-01T00:00:00Z",
+    "FilePath": "/collections/projects/java.md",
+    "Published": false,
+    "Meta": {
+      "title": "iBocconi",
+      "category": "services",
+      "featured": true,
+      "published": false,
+      "date": "2014-01-01T00:00:00Z",
+      "slug": "/projects/java",
+      "body": "\n<p>L’applicazione per il settore calzaturiero</p>\n"
+    }
+  },
+  "/collections/projects/oracle.md": {
+    "Prefix": "projects",
+    "Url": "/projects/oracle",
+    "Date": "2014-01-01T00:00:00Z",
+    "FilePath": "/collections/projects/oracle.md",
+    "Published": false,
+    "Meta": {
+      "title": "Oracle",
+      "category": "services",
+      "featured": true,
+      "published": false,
+      "date": "2014-01-01T00:00:00Z",
+      "slug": "/projects/oracle",
+      "body": "\n<p>L’applicazione per il settore calzaturiero</p>\n"
+    }
+  },
+  "/collections/projects/sqlserver.md": {
+    "Prefix": "projects",
+    "Url": "/projects/sqlserver",
+    "Date": "2014-01-01T00:00:00Z",
+    "FilePath": "/collections/projects/sqlserver.md",
+    "Published": false,
+    "Meta": {
+      "title": "SQLServer",
+      "category": "services",
+      "featured": true,
+      "published": false,
+      "date": "2014-01-01T00:00:00Z",
+      "slug": "/projects/sqlserver",
+      "body": "\n<p>L’applicazione per il settore calzaturiero</p>\n"
+    }
+  },
+  "/collections/projects/university-planner.md": {
+    "Prefix": "projects",
+    "Url": "/projects/university-planner",
+    "Date": "2014-01-01T00:00:00Z",
+    "FilePath": "/collections/projects/university-planner.md",
+    "Published": true,
+    "Meta": {
+      "title": "University Planner",
+      "category": "educational",
+      "featured": true,
+      "published": true,
+      "date": "2014-01-01T00:00:00Z",
+      "slug": "/projects/university-planner",
+      "body": "\n<p>University Planner è un sofisticato sistema per la pianificazione logistica di ateneo: gestisce la calendarizzazione e l’occupazione delle aule in una visione appositamente pensata per le università.</p>\n\n<p>Decine di università italiane utilizzano University Planner</p>\n"
+    }
+  },
+  "/collections/projects/wtrendy.md": {
+    "Prefix": "projects",
+    "Url": "/projects/wtrendy",
+    "Date": "2014-01-01T00:00:00Z",
+    "FilePath": "/collections/projects/wtrendy.md",
+    "Published": true,
+    "Meta": {
+      "title": "wTrendy",
+      "category": "business",
+      "featured": true,
+      "published": true,
+      "date": "2014-01-01T00:00:00Z",
+      "slug": "/projects/wtrendy",
+      "body": "\n<p>Donwload it from the &lt;a href=http://goo.gl/kd0e9V class=”selected” target “_blank”&gt;AppStore&lt;/a&gt;</p>\n\n"
+    }
+  },
+  "/collections/team/alessandra-ugolini.md": {
+    "Prefix": "team",
+    "Url": "/team/alessandra-ugolini",
+    "Date": "2002-02-01T00:00:00Z",
+    "FilePath": "/collections/team/alessandra-ugolini.md",
+    "Published": true,
+    "Meta": {
+      "name": "Alessandra Ugolini",
+      "role": "CEO & Human resources",
+      "published": true,
+      "date": "2002-02-01T00:00:00Z",
+      "slug": "/team/alessandra-ugolini",
+      "body": "\n"
+    }
+  },
+  "/collections/team/alessandro-fusaroli.md": {
+    "Prefix": "team",
+    "Url": "/team/alessandro-fusaroli",
+    "Date": "2003-01-07T00:00:00Z",
+    "FilePath": "/collections/team/alessandro-fusaroli.md",
+    "Published": true,
+    "Meta": {
+      "name": "Alessandro Fusaroli",
+      "role": "developer",
+      "published": true,
+      "date": "2003-01-07T00:00:00Z",
+      "slug": "/team/alessandro-fusaroli",
+      "body": "\n"
+    }
+  },
+  "/collections/team/alessandro-zoffoli.md": {
+    "Prefix": "team",
+    "Url": "/team/alessandro-zoffoli",
+    "Date": "2012-09-24T00:00:00Z",
+    "FilePath": "/collections/team/alessandro-zoffoli.md",
+    "Published": true,
+    "Meta": {
+      "name": "Alessandro Zoffoli",
+      "role": "developer",
+      "published": true,
+      "date": "2012-09-24T00:00:00Z",
+      "slug": "/team/alessandro-zoffoli",
+      "body": "\n"
+    }
+  },
+  "/collections/team/ali-servet-donmez.md": {
+    "Prefix": "team",
+    "Url": "/team/ali-servet-donmez",
+    "Date": "2008-10-01T00:00:00Z",
+    "FilePath": "/collections/team/ali-servet-donmez.md",
+    "Published": true,
+    "Meta": {
+      "name": "Ali Servet Donmez",
+      "role": "developer",
+      "published": true,
+      "date": "2008-10-01T00:00:00Z",
+      "slug": "/team/ali-servet-donmez",
+      "body": "\n"
+    }
+  },
+  "/collections/team/andrea-bencini.md": {
+    "Prefix": "team",
+    "Url": "/team/andrea-bencini",
+    "Date": "2005-04-01T00:00:00Z",
+    "FilePath": "/collections/team/andrea-bencini.md",
+    "Published": true,
+    "Meta": {
+      "name": "Andrea Bencini",
+      "role": "developer",
+      "published": true,
+      "date": "2005-04-01T00:00:00Z",
+      "slug": "/team/andrea-bencini",
+      "body": "\n"
+    }
+  },
+  "/collections/team/andrea-calisesi.md": {
+    "Prefix": "team",
+    "Url": "/team/andrea-calisesi",
+    "Date": "2001-09-01T00:00:00Z",
+    "FilePath": "/collections/team/andrea-calisesi.md",
+    "Published": true,
+    "Meta": {
+      "name": "Andrea Calisesi",
+      "role": "program manager",
+      "published": true,
+      "date": "2001-09-01T00:00:00Z",
+      "slug": "/team/andrea-calisesi",
+      "body": "\n"
+    }
+  },
+  "/collections/team/daniele-nucci.md": {
+    "Prefix": "team",
+    "Url": "/team/daniele-nucci",
+    "Date": "2008-05-12T00:00:00Z",
+    "FilePath": "/collections/team/daniele-nucci.md",
+    "Published": true,
+    "Meta": {
+      "name": "Daniele Nucci",
+      "role": "developer",
+      "published": true,
+      "date": "2008-05-12T00:00:00Z",
+      "slug": "/team/daniele-nucci",
+      "body": "\n"
+    }
+  },
+  "/collections/team/enrico-benini.md": {
+    "Prefix": "team",
+    "Url": "/team/enrico-benini",
+    "Date": "2013-10-02T00:00:00Z",
+    "FilePath": "/collections/team/enrico-benini.md",
+    "Published": true,
+    "Meta": {
+      "name": "Enrico Benini",
+      "role": "developer",
+      "published": true,
+      "date": "2013-10-02T00:00:00Z",
+      "slug": "/team/enrico-benini",
+      "body": "\n"
+    }
+  },
+  "/collections/team/fabio-vassura.md": {
+    "Prefix": "team",
+    "Url": "/team/fabio-vassura",
+    "Date": "2002-06-03T00:00:00Z",
+    "FilePath": "/collections/team/fabio-vassura.md",
+    "Published": true,
+    "Meta": {
+      "name": "Fabio Vassura",
+      "role": "developer",
+      "published": true,
+      "date": "2002-06-03T00:00:00Z",
+      "slug": "/team/fabio-vassura",
+      "body": "\n"
+    }
+  },
+  "/collections/team/fabrizio-bassi.md": {
+    "Prefix": "team",
+    "Url": "/team/fabrizio-bassi",
+    "Date": "2001-09-01T00:00:00Z",
+    "FilePath": "/collections/team/fabrizio-bassi.md",
+    "Published": true,
+    "Meta": {
+      "name": "Fabrizio Bassi",
+      "role": "CEO",
+      "published": true,
+      "date": "2001-09-01T00:00:00Z",
+      "slug": "/team/fabrizio-bassi",
+      "body": "\n"
+    }
+  },
+  "/collections/team/francesca-cremonesi.md": {
+    "Prefix": "team",
+    "Url": "/team/francesca-cremonesi",
+    "Date": "2001-09-01T00:00:00Z",
+    "FilePath": "/collections/team/francesca-cremonesi.md",
+    "Published": true,
+    "Meta": {
+      "name": "Francesca Cremonesi",
+      "role": "accounting",
+      "published": true,
+      "date": "2001-09-01T00:00:00Z",
+      "slug": "/team/francesca-cremonesi",
+      "body": "\n"
+    }
+  },
+  "/collections/team/francesco-nolano.md": {
+    "Prefix": "team",
+    "Url": "/team/francesco-nolano",
+    "Date": "2002-06-03T00:00:00Z",
+    "FilePath": "/collections/team/francesco-nolano.md",
+    "Published": true,
+    "Meta": {
+      "name": "Francesco Nolano",
+      "role": "developer",
+      "published": true,
+      "date": "2002-06-03T00:00:00Z",
+      "slug": "/team/francesco-nolano",
+      "body": "\n"
+    }
+  },
+  "/collections/team/giacomo-rossi.md": {
+    "Prefix": "team",
+    "Url": "/team/giacomo-rossi",
+    "Date": "2013-06-12T00:00:00Z",
+    "FilePath": "/collections/team/giacomo-rossi.md",
+    "Published": true,
+    "Meta": {
+      "name": "Giacomo Rossi",
+      "role": "developer",
+      "published": true,
+      "date": "2013-06-12T00:00:00Z",
+      "slug": "/team/giacomo-rossi",
+      "body": "\n"
+    }
+  },
+  "/collections/team/kseniia-pelykh.md": {
+    "Prefix": "team",
+    "Url": "/team/kseniia-pelykh",
+    "Date": "2013-06-17T00:00:00Z",
+    "FilePath": "/collections/team/kseniia-pelykh.md",
+    "Published": true,
+    "Meta": {
+      "name": "Kseniia Pelykh",
+      "role": "developer",
+      "published": true,
+      "date": "2013-06-17T00:00:00Z",
+      "slug": "/team/kseniia-pelykh",
+      "body": "\n"
+    }
+  },
+  "/collections/team/luana-buscherini.md": {
+    "Prefix": "team",
+    "Url": "/team/luana-buscherini",
+    "Date": "2004-10-04T00:00:00Z",
+    "FilePath": "/collections/team/luana-buscherini.md",
+    "Published": true,
+    "Meta": {
+      "name": "Luana Buscherini",
+      "role": "developer",
+      "published": true,
+      "date": "2004-10-04T00:00:00Z",
+      "slug": "/team/luana-buscherini",
+      "body": "\n"
+    }
+  },
+  "/collections/team/matteo-di-giorgio.md": {
+    "Prefix": "team",
+    "Url": "/team/matteo-di-giorgio",
+    "Date": "2002-10-14T00:00:00Z",
+    "FilePath": "/collections/team/matteo-di-giorgio.md",
+    "Published": true,
+    "Meta": {
+      "name": "Matteo Di Giorgio",
+      "role": "sysadmin",
+      "published": true,
+      "date": "2002-10-14T00:00:00Z",
+      "slug": "/team/matteo-di-giorgio",
+      "body": "\n"
+    }
+  },
+  "/collections/team/matteo-paci.md": {
+    "Prefix": "team",
+    "Url": "/team/matteo-paci",
+    "Date": "2008-10-01T00:00:00Z",
+    "FilePath": "/collections/team/matteo-paci.md",
+    "Published": true,
+    "Meta": {
+      "name": "Matteo Paci",
+      "role": "developer",
+      "published": true,
+      "date": "2008-10-01T00:00:00Z",
+      "slug": "/team/matteo-paci",
+      "body": "\n"
+    }
+  },
+  "/collections/team/matteo-rinaldi.md": {
+    "Prefix": "team",
+    "Url": "/team/matteo-rinaldi",
+    "Date": "2013-08-27T00:00:00Z",
+    "FilePath": "/collections/team/matteo-rinaldi.md",
+    "Published": true,
+    "Meta": {
+      "name": "Matteo Rinaldi",
+      "role": "developer",
+      "published": true,
+      "date": "2013-08-27T00:00:00Z",
+      "slug": "/team/matteo-rinaldi",
+      "body": "\n"
+    }
+  },
+  "/collections/team/maurizio-amadori.md": {
+    "Prefix": "team",
+    "Url": "/team/maurizio-amadori",
+    "Date": "2001-10-01T00:00:00Z",
+    "FilePath": "/collections/team/maurizio-amadori.md",
+    "Published": true,
+    "Meta": {
+      "name": "Maurizio Amadori",
+      "role": "project <br> manager",
+      "published": true,
+      "date": "2001-10-01T00:00:00Z",
+      "slug": "/team/maurizio-amadori",
+      "body": "\n"
+    }
+  },
+  "/collections/team/mauro-di-biagio.md": {
+    "Prefix": "team",
+    "Url": "/team/mauro-di-biagio",
+    "Date": "2008-07-15T00:00:00Z",
+    "FilePath": "/collections/team/mauro-di-biagio.md",
+    "Published": true,
+    "Meta": {
+      "name": "Mauro Di Biagio",
+      "role": "developer",
+      "published": true,
+      "date": "2008-07-15T00:00:00Z",
+      "slug": "/team/mauro-di-biagio",
+      "body": "\n"
+    }
+  },
+  "/collections/team/mirko-pastorelli.md": {
+    "Prefix": "team",
+    "Url": "/team/mirko-pastorelli",
+    "Date": "2013-10-21T00:00:00Z",
+    "FilePath": "/collections/team/mirko-pastorelli.md",
+    "Published": true,
+    "Meta": {
+      "name": "Mirko Pastorelli",
+      "role": "developer",
+      "published": true,
+      "date": "2013-10-21T00:00:00Z",
+      "slug": "/team/mirko-pastorelli",
+      "body": "\n"
+    }
+  },
+  "/collections/team/nicola-casadei.md": {
+    "Prefix": "team",
+    "Url": "/team/nicola-casadei",
+    "Date": "2002-06-03T00:00:00Z",
+    "FilePath": "/collections/team/nicola-casadei.md",
+    "Published": true,
+    "Meta": {
+      "name": "Nicola Casadei",
+      "role": "developer",
+      "published": true,
+      "date": "2002-06-03T00:00:00Z",
+      "slug": "/team/nicola-casadei",
+      "body": "\n"
+    }
+  },
+  "/collections/team/riccardo-russo.md": {
+    "Prefix": "team",
+    "Url": "/team/riccardo-russo",
+    "Date": "2007-05-04T00:00:00Z",
+    "FilePath": "/collections/team/riccardo-russo.md",
+    "Published": true,
+    "Meta": {
+      "name": "Riccardo Russo",
+      "role": "developer",
+      "published": true,
+      "date": "2007-05-04T00:00:00Z",
+      "slug": "/team/riccardo-russo",
+      "body": "\n"
+    }
+  },
+  "/collections/team/roberta-bacchini.md": {
+    "Prefix": "team",
+    "Url": "/team/roberta-bacchini",
+    "Date": "2008-11-17T00:00:00Z",
+    "FilePath": "/collections/team/roberta-bacchini.md",
+    "Published": true,
+    "Meta": {
+      "name": "Roberta Bacchini",
+      "role": "accounting",
+      "published": true,
+      "date": "2008-11-17T00:00:00Z",
+      "slug": "/team/roberta-bacchini",
+      "body": "\n"
+    }
+  },
+  "/collections/team/roberto-casadei.md": {
+    "Prefix": "team",
+    "Url": "/team/roberto-casadei",
+    "Date": "2002-06-03T00:00:00Z",
+    "FilePath": "/collections/team/roberto-casadei.md",
+    "Published": true,
+    "Meta": {
+      "name": "Roberto Casadei",
+      "role": "developer",
+      "published": true,
+      "date": "2002-06-03T00:00:00Z",
+      "slug": "/team/roberto-casadei",
+      "body": "\n"
+    }
+  },
+  "/collections/team/sandeep-gajula.md": {
+    "Prefix": "team",
+    "Url": "/team/sandeep-gajula",
+    "Date": "2013-08-27T00:00:00Z",
+    "FilePath": "/collections/team/sandeep-gajula.md",
+    "Published": true,
+    "Meta": {
+      "name": "Sandeep Gajula",
+      "role": "designer",
+      "published": true,
+      "date": "2013-08-27T00:00:00Z",
+      "slug": "/team/sandeep-gajula",
+      "body": "\n"
+    }
+  },
+  "/collections/team/stefano-giorgi.md": {
+    "Prefix": "team",
+    "Url": "/team/stefano-giorgi",
+    "Date": "2012-12-17T00:00:00Z",
+    "FilePath": "/collections/team/stefano-giorgi.md",
+    "Published": true,
+    "Meta": {
+      "name": "Stefano Giorgi",
+      "role": "developer",
+      "published": true,
+      "date": "2012-12-17T00:00:00Z",
+      "slug": "/team/stefano-giorgi",
+      "body": "\n"
+    }
+  },
+  "/collections/team/stefano-randi.md": {
+    "Prefix": "team",
+    "Url": "/team/stefano-randi",
+    "Date": "2002-07-16T00:00:00Z",
+    "FilePath": "/collections/team/stefano-randi.md",
+    "Published": true,
+    "Meta": {
+      "name": "Stefano Randi",
+      "role": "developer",
+      "published": true,
+      "date": "2002-07-16T00:00:00Z",
+      "slug": "/team/stefano-randi",
+      "body": "\n"
+    }
+  },
+  "/collections/team/stefano-teodorani.md": {
+    "Prefix": "team",
+    "Url": "/team/stefano-teodorani",
+    "Date": "2001-09-01T00:00:00Z",
+    "FilePath": "/collections/team/stefano-teodorani.md",
+    "Published": true,
+    "Meta": {
+      "name": "Stefano Teodorani",
+      "role": "product manager",
+      "published": true,
+      "date": "2001-09-01T00:00:00Z",
+      "twitter": "http://twitter.com/teopost",
+      "googleplus": "dfiughdfkjghkjdf",
+      "slug": "/team/stefano-teodorani",
+      "body": "\n"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{% assign t = site.data.translations[page.lang] %}
+
+<!-- Services Section -->
+    <section id="services">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">{{ t.services_section }}</h2>
+                    <h3 class="section-subheading text-muted"></h3>
+
+
+                    <!--
+                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                  -->
+                </div>
+
+            </div>
+            <div class="row text-center">
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-mobile-phone fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">{{ t.services_mobile_title }}</h4>
+                    <p class="text-muted">{{ t.services_mobile_description }}</p>
+                    {% if t.services_mobile_text_button != null %}
+                      <a href="#services" class="page-scroll btn-sm btn-default">{{ t.services_mobile_text_button }}</a>
+                    {% endif %}
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">{{ t.services_web_title }}</h4>
+                    <p class="text-muted">{{ t.services_web_description }}</p>
+                    {% if t.services_web_text_button != null %}
+                      <a href="#services" class="page-scroll btn-sm btn-default">{{ t.services_web_text_button }}</a>
+                    {% endif %}
+
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-wrench fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">{{ t.services_service_title }}</h4>
+                    <p class="text-muted">{{ t.services_service_description }}</p>
+                    {% if t.services_service_text_button != null %}
+                      <a href="#services" class="page-scroll btn-sm btn-default">{{ t.services_service_text_button }}</a>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </section>

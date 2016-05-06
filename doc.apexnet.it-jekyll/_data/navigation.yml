@@ -1,0 +1,28 @@
+# Site navigation links
+
+- title: Home
+  url: /
+
+- title: Documenti
+  url: /articles/
+
+- title: Note di rilascio
+  url: /relnotes/
+
+# - title: Blog
+#  url: /blog/
+
+# - title: UP
+#   url: /up/
+
+- title: iCommerce
+  url: http://ic.apexnet.it
+
+# - title: About
+#   url: /about/
+
+- title: Tags
+  url: /tags/
+
+- title: Cerca
+  url: /search/

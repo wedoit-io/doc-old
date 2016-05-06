@@ -1,0 +1,50 @@
+<div id="about" class="page-alternate">
+<div class="container">
+    <!-- Title Page -->
+    <div class="row">
+        <div class="span12">
+            <div class="title-page">
+                <h2 class="title">Team</h2>
+                <h3 class="title-description">Team <span class="blue">members</span>.</h3>
+            </div>
+        </div>
+    </div>
+    <!-- End Title Page -->
+
+    <!-- People -->
+    <div class="row">
+
+{% collection "team" order asc %}{% for item in collection.items %}
+        <!-- Start Profile -->
+        <div class="span3 profile">
+            <div class="image-wrap">
+                <div class="hover-wrap">
+                    <span class="overlay-img"></span>
+                    <span class="overlay-text-thumb">{{ item.role | capitalize }}</span>
+                </div>
+                <img src="{{ item.slug | append: '.png' | asset_url }}" alt="{{ item.name }}">
+            </div>
+            <h3 class="profile-name">{{ item.name }}</h3>
+            <p class="profile-description">{{ item.body }}</p>
+
+            <div class="social">
+              <ul class="social-icons">
+
+                      <!--  <li><a href="{{ item.twitter }}"><i class="font-icon-social-twitter"></i></a></li>  -->
+                       <!--  <li><a href="#"><i class="font-icon-social-dribbble"></i></a></li>  -->
+                    
+{% if item.facebook != '' %}
+                      <!--  <li><a href="{{ item.facebook }}"><i class="font-icon-social-facebook"></i></a></li>  -->
+{% endif %}
+                     <!--  <li><a href="{{ item.email }}"><i class="font-icon-social-email"></i></a></li> -->
+                    
+                </ul>
+            </div>
+        </div>
+        <!-- End Profile -->
+{% endfor %}{% endcollection %}
+
+    </div>
+    <!-- End People -->
+</div>
+</div>

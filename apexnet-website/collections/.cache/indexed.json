@@ -1,0 +1,2290 @@
+{
+  "about": {
+    "collection": {
+      "/about/about": {
+        "published": true,
+        "date": "2015-07-21 14:04:00 UTC",
+        "slug": "/about/about",
+        "body": "\n<p>Ci piace immaginare un mondo semplice e intuitivo.</p>\n\n<p>Sono le linee guida delle nostre applicazioni. Diamo un anima alle tecnologie più attuali, trasformandole in progetti globali per l’azienda. Lavorare meglio significa più business e nuovi desideri.</p>\n\n<p>Crediamo nelle persone, ed è per loro che lavoriamo.</p>\n",
+        "month": "07",
+        "year": "2015",
+        "ticks": 1437487440.0,
+        "mixture_month_year": "07/2015",
+        "mixture_date": "2015-07-21T16:04:00+02:00"
+      }
+    },
+    "index": {
+      "slug": {
+        "/about/about": [
+          "/about/about"
+        ]
+      },
+      "transliterated-slug": {
+        "/about/about": [
+          "/about/about"
+        ]
+      },
+      "month": {
+        "07": [
+          "/about/about"
+        ]
+      },
+      "year": {
+        "2015": [
+          "/about/about"
+        ]
+      },
+      "ticks": {
+        "1437487440.0": [
+          "/about/about"
+        ]
+      },
+      "mixture_month_year": {
+        "07/2015": [
+          "/about/about"
+        ]
+      },
+      "mixture_date": {
+        "2015-07-21t16:04:00+02:00": [
+          "/about/about"
+        ]
+      }
+    }
+  },
+  "clients": {
+    "collection": {
+      "/clients/alessandro-mariani": {
+        "name": "Alessandro Mariani",
+        "role": "developer",
+        "published": true,
+        "date": "2013-01-08 00:00:00 UTC",
+        "slug": "/clients/alessandro-mariani",
+        "body": "\n",
+        "month": "01",
+        "year": "2013",
+        "ticks": 1357603200.0,
+        "mixture_month_year": "01/2013",
+        "mixture_date": "2013-01-08T00:00:00Z"
+      },
+      "/clients/bocconi": {
+        "link": "http://www.unibocconi.it/",
+        "featured": true,
+        "published": true,
+        "date": "2015-07-21 14:04:00 UTC",
+        "slug": "/clients/bocconi",
+        "body": "\n",
+        "month": "07",
+        "year": "2015",
+        "ticks": 1437487440.0,
+        "mixture_month_year": "07/2015",
+        "mixture_date": "2015-07-21T16:04:00+02:00"
+      },
+      "/clients/cineca": {
+        "link": "http://www.cineca.it/",
+        "featured": true,
+        "published": true,
+        "date": "2015-07-21 14:04:00 UTC",
+        "slug": "/clients/cineca",
+        "body": "\n",
+        "month": "07",
+        "year": "2015",
+        "ticks": 1437487440.0,
+        "mixture_month_year": "07/2015",
+        "mixture_date": "2015-07-21T16:04:00+02:00"
+      },
+      "/clients/inail": {
+        "link": "http://www.inail.it/",
+        "featured": true,
+        "published": true,
+        "date": "2015-07-21 14:04:00 UTC",
+        "slug": "/clients/inail",
+        "body": "\n",
+        "month": "07",
+        "year": "2015",
+        "ticks": 1437487440.0,
+        "mixture_month_year": "07/2015",
+        "mixture_date": "2015-07-21T16:04:00+02:00"
+      },
+      "/clients/kion": {
+        "link": "http://www.kion.it/",
+        "featured": true,
+        "published": true,
+        "date": "2015-07-21 14:04:00 UTC",
+        "slug": "/clients/kion",
+        "body": "\n",
+        "month": "07",
+        "year": "2015",
+        "ticks": 1437487440.0,
+        "mixture_month_year": "07/2015",
+        "mixture_date": "2015-07-21T16:04:00+02:00"
+      }
+    },
+    "index": {
+      "name": {
+        "alessandro mariani": [
+          "/clients/alessandro-mariani"
+        ]
+      },
+      "transliterated-name": {
+        "alessandro-mariani": [
+          "/clients/alessandro-mariani"
+        ]
+      },
+      "role": {
+        "developer": [
+          "/clients/alessandro-mariani"
+        ]
+      },
+      "transliterated-role": {
+        "developer": [
+          "/clients/alessandro-mariani"
+        ]
+      },
+      "slug": {
+        "/clients/alessandro-mariani": [
+          "/clients/alessandro-mariani"
+        ],
+        "/clients/bocconi": [
+          "/clients/bocconi"
+        ],
+        "/clients/cineca": [
+          "/clients/cineca"
+        ],
+        "/clients/inail": [
+          "/clients/inail"
+        ],
+        "/clients/kion": [
+          "/clients/kion"
+        ]
+      },
+      "transliterated-slug": {
+        "/clients/alessandro-mariani": [
+          "/clients/alessandro-mariani"
+        ],
+        "/clients/bocconi": [
+          "/clients/bocconi"
+        ],
+        "/clients/cineca": [
+          "/clients/cineca"
+        ],
+        "/clients/inail": [
+          "/clients/inail"
+        ],
+        "/clients/kion": [
+          "/clients/kion"
+        ]
+      },
+      "month": {
+        "01": [
+          "/clients/alessandro-mariani"
+        ],
+        "07": [
+          "/clients/bocconi",
+          "/clients/cineca",
+          "/clients/inail",
+          "/clients/kion"
+        ]
+      },
+      "year": {
+        "2013": [
+          "/clients/alessandro-mariani"
+        ],
+        "2015": [
+          "/clients/bocconi",
+          "/clients/cineca",
+          "/clients/inail",
+          "/clients/kion"
+        ]
+      },
+      "ticks": {
+        "1357603200.0": [
+          "/clients/alessandro-mariani"
+        ],
+        "1437487440.0": [
+          "/clients/bocconi",
+          "/clients/cineca",
+          "/clients/inail",
+          "/clients/kion"
+        ]
+      },
+      "mixture_month_year": {
+        "01/2013": [
+          "/clients/alessandro-mariani"
+        ],
+        "07/2015": [
+          "/clients/bocconi",
+          "/clients/cineca",
+          "/clients/inail",
+          "/clients/kion"
+        ]
+      },
+      "mixture_date": {
+        "2013-01-08t00:00:00z": [
+          "/clients/alessandro-mariani"
+        ],
+        "2015-07-21t16:04:00+02:00": [
+          "/clients/bocconi",
+          "/clients/cineca",
+          "/clients/inail",
+          "/clients/kion"
+        ]
+      },
+      "link": {
+        "http://www.unibocconi.it/": [
+          "/clients/bocconi"
+        ],
+        "http://www.cineca.it/": [
+          "/clients/cineca"
+        ],
+        "http://www.inail.it/": [
+          "/clients/inail"
+        ],
+        "http://www.kion.it/": [
+          "/clients/kion"
+        ]
+      },
+      "transliterated-link": {
+        "http//wwwunibocconiit/": [
+          "/clients/bocconi"
+        ],
+        "http//wwwcinecait/": [
+          "/clients/cineca"
+        ],
+        "http//wwwinailit/": [
+          "/clients/inail"
+        ],
+        "http//wwwkionit/": [
+          "/clients/kion"
+        ]
+      },
+      "featured": {
+        "true": [
+          "/clients/bocconi",
+          "/clients/cineca",
+          "/clients/inail",
+          "/clients/kion"
+        ]
+      },
+      "transliterated-featured": {
+        "true": [
+          "/clients/bocconi",
+          "/clients/cineca",
+          "/clients/inail",
+          "/clients/kion"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "collection": {
+      "/projects/admissions": {
+        "title": "Admissions",
+        "category": "educational",
+        "featured": true,
+        "published": true,
+        "date": "2014-01-01 00:00:00 UTC",
+        "slug": "/projects/admissions",
+        "body": "\n<p>Admissions gestisce l’intero flusso operativo e organizzativo di un ateneo.<br />\n&lt;a href=http://www.unibocconi.it class=”selected” target “_blank”&gt;Bocconi&lt;/a&gt; ha scelto Admissions</p>\n",
+        "month": "01",
+        "year": "2014",
+        "ticks": 1388534400.0,
+        "mixture_month_year": "01/2014",
+        "mixture_date": "2014-01-01T00:00:00Z"
+      },
+      "/projects/allie": {
+        "title": "Allie",
+        "category": "insurance",
+        "featured": true,
+        "published": true,
+        "date": "2014-01-01 00:00:00 UTC",
+        "slug": "/projects/allie",
+        "body": "\n<p>Mi attivi su internet e mi installi facilmente sulla tua auto. Sono collegato a una Centrale Operativa e al tuo smartphone, so sempre dove si trova la tua vettura grazie al mio localizzatore GPS e sono in grado di chiedere assistenza immediata in caso di guasto o incidente. Ma faccio molto di più, grazie a tanti servizi disponibili sulla mia applicazione.</p>\n\n<p>Sviluppata per &lt;a href=http://www.allie.it class=”selected” target “_blank”&gt;Allianz Assicurazioni&lt;/a&gt; </p>\n",
+        "month": "01",
+        "year": "2014",
+        "ticks": 1388534400.0,
+        "mixture_month_year": "01/2014",
+        "mixture_date": "2014-01-01T00:00:00Z"
+      },
+      "/projects/atipico": {
+        "title": "Atipico",
+        "category": "others",
+        "featured": true,
+        "published": false,
+        "date": "2014-01-01 00:00:00 UTC",
+        "slug": "/projects/atipico",
+        "body": "\n<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod<br />\ntempor incididunt ut labore et dolore magna aliqua. Ut enim </p>\n",
+        "month": "01",
+        "year": "2014",
+        "ticks": 1388534400.0,
+        "mixture_month_year": "01/2014",
+        "mixture_date": "2014-01-01T00:00:00Z"
+      },
+      "/projects/business": {
+        "title": "Business",
+        "category": "business",
+        "featured": true,
+        "published": false,
+        "date": "2014-01-01 00:00:00 UTC",
+        "slug": "/projects/business",
+        "body": "\n<p>L’applicazione per il settore calzaturiero</p>\n",
+        "month": "01",
+        "year": "2014",
+        "ticks": 1388534400.0,
+        "mixture_month_year": "01/2014",
+        "mixture_date": "2014-01-01T00:00:00Z"
+      },
+      "/projects/cim": {
+        "title": "CIM",
+        "category": "business",
+        "featured": true,
+        "published": true,
+        "date": "2014-01-01 00:00:00 UTC",
+        "slug": "/projects/cim",
+        "body": "\n",
+        "month": "01",
+        "year": "2014",
+        "ticks": 1388534400.0,
+        "mixture_month_year": "01/2014",
+        "mixture_date": "2014-01-01T00:00:00Z"
+      },
+      "/projects/clicker": {
+        "title": "Clicker",
+        "category": "educational",
+        "featured": true,
+        "published": true,
+        "date": "2014-01-01 00:00:00 UTC",
+        "slug": "/projects/clicker",
+        "body": "\n<p>Clicker consente agli studenti di partecipare attivamente alle lezioni in aula rispondendo alle domande poste dai professori.<br />\nQuesta tecnologia porta ai massimi livelli l’interazione di classe, permettendo ai docenti il monitoraggio del livello di conoscenza con precisione e puntualità.</p>\n\n<p>Clicker è stato scelta dall’Università &lt;a href=http://www.unibocconi.it class=”selected” target “_blank”&gt;Bocconi&lt;/a&gt;</p>\n",
+        "month": "01",
+        "year": "2014",
+        "ticks": 1388534400.0,
+        "mixture_month_year": "01/2014",
+        "mixture_date": "2014-01-01T00:00:00Z"
+      },
+      "/projects/csharp": {
+        "title": "C#",
+        "category": "services",
+        "featured": true,
+        "published": false,
+        "date": "2014-01-01 00:00:00 UTC",
+        "slug": "/projects/csharp",
+        "body": "\n<p>L’applicazione per il settore calzaturiero</p>\n",
+        "month": "01",
+        "year": "2014",
+        "ticks": 1388534400.0,
+        "mixture_month_year": "01/2014",
+        "mixture_date": "2014-01-01T00:00:00Z"
+      },
+      "/projects/easypir": {
+        "title": "Easy PIR",
+        "category": "business",
+        "featured": true,
+        "published": true,
+        "date": "2014-01-01 00:00:00 UTC",
+        "slug": "/projects/easypir",
+        "body": "\n<p>Easy PIR è la nuova App pensata per i Clienti del Gruppo PIR.<br />\nCon Easy PIR hai accesso immediato ai principali dati relativi ai tuoi prodotti in stoccaggio presso i terminal del Gruppo PIR.<br />\nIl quantitativo dei prodotti in giacenza, il livello di riempimento dei singoli serbatoi e le riconsegne effettuate nella giornata, saranno sempre a portata di mano direttamente sul tuo dispositivo mobile!</p>\n",
+        "month": "01",
+        "year": "2014",
+        "ticks": 1388534400.0,
+        "mixture_month_year": "01/2014",
+        "mixture_date": "2014-01-01T00:00:00Z"
+      },
+      "/projects/ib": {
+        "title": "iB",
+        "category": "business",
+        "featured": true,
+        "published": true,
+        "date": "2014-01-01 00:00:00 UTC",
+        "slug": "/projects/ib",
+        "body": "\n<p>Donwload it from the &lt;a href=http://goo.gl/E4AzUZ class=”selected” target “_blank”&gt;AppStore&lt;/a&gt;</p>\n",
+        "month": "01",
+        "year": "2014",
+        "ticks": 1388534400.0,
+        "mixture_month_year": "01/2014",
+        "mixture_date": "2014-01-01T00:00:00Z"
+      },
+      "/projects/ibocconi": {
+        "title": "iBocconi",
+        "category": "educational",
+        "featured": true,
+        "published": false,
+        "date": "2014-01-01 00:00:00 UTC",
+        "slug": "/projects/ibocconi",
+        "body": "\n<p>L’applicazione per il settore calzaturiero</p>\n",
+        "month": "01",
+        "year": "2014",
+        "ticks": 1388534400.0,
+        "mixture_month_year": "01/2014",
+        "mixture_date": "2014-01-01T00:00:00Z"
+      },
+      "/projects/icalcio": {
+        "title": "iCalcio",
+        "category": "fun",
+        "featured": true,
+        "published": true,
+        "date": "2014-01-01 00:00:00 UTC",
+        "slug": "/projects/icalcio",
+        "body": "\n<p>Rimani collegato con la tua squadra del cuore.<br />\nDisponibile per molte squadre di serie A, scarica la tua app.</p>\n",
+        "month": "01",
+        "year": "2014",
+        "ticks": 1388534400.0,
+        "mixture_month_year": "01/2014",
+        "mixture_date": "2014-01-01T00:00:00Z"
+      },
+      "/projects/icommerce": {
+        "title": "iCommerce",
+        "category": "business",
+        "featured": true,
+        "published": true,
+        "date": "2014-01-01 00:00:00 UTC",
+        "slug": "/projects/icommerce",
+        "body": "\n<p>Donwload it from the &lt;a href=http://goo.gl/rVfujA class=”selected” target “_blank”&gt;AppStore&lt;/a&gt;</p>\n",
+        "month": "01",
+        "year": "2014",
+        "ticks": 1388534400.0,
+        "mixture_month_year": "01/2014",
+        "mixture_date": "2014-01-01T00:00:00Z"
+      },
+      "/projects/igamma": {
+        "title": "iGamma",
+        "category": "business",
+        "featured": true,
+        "published": true,
+        "date": "2014-01-01 00:00:00 UTC",
+        "slug": "/projects/igamma",
+        "body": "\n<p>Donwload it from the &lt;a href=http://goo.gl/5UAudW class=”selected” target “_blank”&gt;AppStore&lt;/a&gt;</p>\n",
+        "month": "01",
+        "year": "2014",
+        "ticks": 1388534400.0,
+        "mixture_month_year": "01/2014",
+        "mixture_date": "2014-01-01T00:00:00Z"
+      },
+      "/projects/imecc": {
+        "title": "iMecc",
+        "category": "business",
+        "featured": true,
+        "published": true,
+        "date": "2014-01-01 00:00:00 UTC",
+        "slug": "/projects/imecc",
+        "body": "\n<p>Donwload it from the &lt;a href=http://goo.gl/EJhBCR class=”selected” target “_blank”&gt;AppStore&lt;/a&gt;</p>\n",
+        "month": "01",
+        "year": "2014",
+        "ticks": 1388534400.0,
+        "mixture_month_year": "01/2014",
+        "mixture_date": "2014-01-01T00:00:00Z"
+      },
+      "/projects/imortacci": {
+        "title": "iMortacci",
+        "category": "fun",
+        "featured": true,
+        "published": true,
+        "date": "2014-01-01 00:00:00 UTC",
+        "slug": "/projects/imortacci",
+        "body": "\n<p>Donwload it from the &lt;a href=http://goo.gl/N2tlDP class=”selected” target “_blank”&gt;AppStore&lt;/a&gt; or the &lt;a href=http://goo.gl/hGNVeM class=”selected” target “_blank”&gt;PlayStore&lt;/a&gt;</p>\n",
+        "month": "01",
+        "year": "2014",
+        "ticks": 1388534400.0,
+        "mixture_month_year": "01/2014",
+        "mixture_date": "2014-01-01T00:00:00Z"
+      },
+      "/projects/iuniversity": {
+        "title": "iUniversity",
+        "category": "educational",
+        "featured": true,
+        "published": true,
+        "date": "2014-01-01 00:00:00 UTC",
+        "slug": "/projects/iuniversity",
+        "body": "\n<p>Con iUniversity gli studenti di molte università italiane prenotano gli esami rimangono connessi col loro ateneo.<br />\n&lt;a href=https://itunes.apple.com/it/app/ibocconi/id439889963?mt=8 class=”selected” target “_blank”&gt;Bocconi&lt;/a&gt;, &lt;a href=https://itunes.apple.com/it/app/iunits/id455203876?mt=8   class=”selected” target “_blank”&gt;Trieste&lt;/a&gt;, &lt;a href=https://itunes.apple.com/it/app/myunica/id446172114?mt=8  class=”selected” target “_blank”&gt;Cagliari&lt;/a&gt; usano ogni giorno iUniversity.</p>\n\n<p>Sviluppata per &lt;a href=http://www.cineca.it  class=”selected” target “_blank”&gt;Cineca&lt;/a&gt; </p>\n",
+        "month": "01",
+        "year": "2014",
+        "ticks": 1388534400.0,
+        "mixture_month_year": "01/2014",
+        "mixture_date": "2014-01-01T00:00:00Z"
+      },
+      "/projects/iz": {
+        "title": "iZ",
+        "category": "business",
+        "featured": true,
+        "published": true,
+        "date": "2014-01-01 00:00:00 UTC",
+        "slug": "/projects/iz",
+        "body": "\n",
+        "month": "01",
+        "year": "2014",
+        "ticks": 1388534400.0,
+        "mixture_month_year": "01/2014",
+        "mixture_date": "2014-01-01T00:00:00Z"
+      },
+      "/projects/java": {
+        "title": "iBocconi",
+        "category": "services",
+        "featured": true,
+        "published": false,
+        "date": "2014-01-01 00:00:00 UTC",
+        "slug": "/projects/java",
+        "body": "\n<p>L’applicazione per il settore calzaturiero</p>\n",
+        "month": "01",
+        "year": "2014",
+        "ticks": 1388534400.0,
+        "mixture_month_year": "01/2014",
+        "mixture_date": "2014-01-01T00:00:00Z"
+      },
+      "/projects/oracle": {
+        "title": "Oracle",
+        "category": "services",
+        "featured": true,
+        "published": false,
+        "date": "2014-01-01 00:00:00 UTC",
+        "slug": "/projects/oracle",
+        "body": "\n<p>L’applicazione per il settore calzaturiero</p>\n",
+        "month": "01",
+        "year": "2014",
+        "ticks": 1388534400.0,
+        "mixture_month_year": "01/2014",
+        "mixture_date": "2014-01-01T00:00:00Z"
+      },
+      "/projects/sqlserver": {
+        "title": "SQLServer",
+        "category": "services",
+        "featured": true,
+        "published": false,
+        "date": "2014-01-01 00:00:00 UTC",
+        "slug": "/projects/sqlserver",
+        "body": "\n<p>L’applicazione per il settore calzaturiero</p>\n",
+        "month": "01",
+        "year": "2014",
+        "ticks": 1388534400.0,
+        "mixture_month_year": "01/2014",
+        "mixture_date": "2014-01-01T00:00:00Z"
+      },
+      "/projects/university-planner": {
+        "title": "University Planner",
+        "category": "educational",
+        "featured": true,
+        "published": true,
+        "date": "2014-01-01 00:00:00 UTC",
+        "slug": "/projects/university-planner",
+        "body": "\n<p>University Planner è un sofisticato sistema per la pianificazione logistica di ateneo: gestisce la calendarizzazione e l’occupazione delle aule in una visione appositamente pensata per le università.</p>\n\n<p>Decine di università italiane utilizzano University Planner</p>\n",
+        "month": "01",
+        "year": "2014",
+        "ticks": 1388534400.0,
+        "mixture_month_year": "01/2014",
+        "mixture_date": "2014-01-01T00:00:00Z"
+      },
+      "/projects/wtrendy": {
+        "title": "wTrendy",
+        "category": "business",
+        "featured": true,
+        "published": true,
+        "date": "2014-01-01 00:00:00 UTC",
+        "slug": "/projects/wtrendy",
+        "body": "\n<p>Donwload it from the &lt;a href=http://goo.gl/kd0e9V class=”selected” target “_blank”&gt;AppStore&lt;/a&gt;</p>\n\n",
+        "month": "01",
+        "year": "2014",
+        "ticks": 1388534400.0,
+        "mixture_month_year": "01/2014",
+        "mixture_date": "2014-01-01T00:00:00Z"
+      }
+    },
+    "index": {
+      "title": {
+        "admissions": [
+          "/projects/admissions"
+        ],
+        "allie": [
+          "/projects/allie"
+        ],
+        "atipico": [
+          "/projects/atipico"
+        ],
+        "business": [
+          "/projects/business"
+        ],
+        "cim": [
+          "/projects/cim"
+        ],
+        "clicker": [
+          "/projects/clicker"
+        ],
+        "c#": [
+          "/projects/csharp"
+        ],
+        "easy pir": [
+          "/projects/easypir"
+        ],
+        "ib": [
+          "/projects/ib"
+        ],
+        "ibocconi": [
+          "/projects/ibocconi",
+          "/projects/java"
+        ],
+        "icalcio": [
+          "/projects/icalcio"
+        ],
+        "icommerce": [
+          "/projects/icommerce"
+        ],
+        "igamma": [
+          "/projects/igamma"
+        ],
+        "imecc": [
+          "/projects/imecc"
+        ],
+        "imortacci": [
+          "/projects/imortacci"
+        ],
+        "iuniversity": [
+          "/projects/iuniversity"
+        ],
+        "iz": [
+          "/projects/iz"
+        ],
+        "oracle": [
+          "/projects/oracle"
+        ],
+        "sqlserver": [
+          "/projects/sqlserver"
+        ],
+        "university planner": [
+          "/projects/university-planner"
+        ],
+        "wtrendy": [
+          "/projects/wtrendy"
+        ]
+      },
+      "transliterated-title": {
+        "admissions": [
+          "/projects/admissions"
+        ],
+        "allie": [
+          "/projects/allie"
+        ],
+        "atipico": [
+          "/projects/atipico"
+        ],
+        "business": [
+          "/projects/business"
+        ],
+        "cim": [
+          "/projects/cim"
+        ],
+        "clicker": [
+          "/projects/clicker"
+        ],
+        "c": [
+          "/projects/csharp"
+        ],
+        "easy-pir": [
+          "/projects/easypir"
+        ],
+        "ib": [
+          "/projects/ib"
+        ],
+        "ibocconi": [
+          "/projects/ibocconi",
+          "/projects/java"
+        ],
+        "icalcio": [
+          "/projects/icalcio"
+        ],
+        "icommerce": [
+          "/projects/icommerce"
+        ],
+        "igamma": [
+          "/projects/igamma"
+        ],
+        "imecc": [
+          "/projects/imecc"
+        ],
+        "imortacci": [
+          "/projects/imortacci"
+        ],
+        "iuniversity": [
+          "/projects/iuniversity"
+        ],
+        "iz": [
+          "/projects/iz"
+        ],
+        "oracle": [
+          "/projects/oracle"
+        ],
+        "sqlserver": [
+          "/projects/sqlserver"
+        ],
+        "university-planner": [
+          "/projects/university-planner"
+        ],
+        "wtrendy": [
+          "/projects/wtrendy"
+        ]
+      },
+      "category": {
+        "educational": [
+          "/projects/admissions",
+          "/projects/clicker",
+          "/projects/ibocconi",
+          "/projects/iuniversity",
+          "/projects/university-planner"
+        ],
+        "insurance": [
+          "/projects/allie"
+        ],
+        "others": [
+          "/projects/atipico"
+        ],
+        "business": [
+          "/projects/business",
+          "/projects/cim",
+          "/projects/easypir",
+          "/projects/ib",
+          "/projects/icommerce",
+          "/projects/igamma",
+          "/projects/imecc",
+          "/projects/iz",
+          "/projects/wtrendy"
+        ],
+        "services": [
+          "/projects/csharp",
+          "/projects/java",
+          "/projects/oracle",
+          "/projects/sqlserver"
+        ],
+        "fun": [
+          "/projects/icalcio",
+          "/projects/imortacci"
+        ]
+      },
+      "transliterated-category": {
+        "educational": [
+          "/projects/admissions",
+          "/projects/clicker",
+          "/projects/ibocconi",
+          "/projects/iuniversity",
+          "/projects/university-planner"
+        ],
+        "insurance": [
+          "/projects/allie"
+        ],
+        "others": [
+          "/projects/atipico"
+        ],
+        "business": [
+          "/projects/business",
+          "/projects/cim",
+          "/projects/easypir",
+          "/projects/ib",
+          "/projects/icommerce",
+          "/projects/igamma",
+          "/projects/imecc",
+          "/projects/iz",
+          "/projects/wtrendy"
+        ],
+        "services": [
+          "/projects/csharp",
+          "/projects/java",
+          "/projects/oracle",
+          "/projects/sqlserver"
+        ],
+        "fun": [
+          "/projects/icalcio",
+          "/projects/imortacci"
+        ]
+      },
+      "featured": {
+        "true": [
+          "/projects/admissions",
+          "/projects/allie",
+          "/projects/atipico",
+          "/projects/business",
+          "/projects/cim",
+          "/projects/clicker",
+          "/projects/csharp",
+          "/projects/easypir",
+          "/projects/ib",
+          "/projects/ibocconi",
+          "/projects/icalcio",
+          "/projects/icommerce",
+          "/projects/igamma",
+          "/projects/imecc",
+          "/projects/imortacci",
+          "/projects/iuniversity",
+          "/projects/iz",
+          "/projects/java",
+          "/projects/oracle",
+          "/projects/sqlserver",
+          "/projects/university-planner",
+          "/projects/wtrendy"
+        ]
+      },
+      "transliterated-featured": {
+        "true": [
+          "/projects/admissions",
+          "/projects/allie",
+          "/projects/atipico",
+          "/projects/business",
+          "/projects/cim",
+          "/projects/clicker",
+          "/projects/csharp",
+          "/projects/easypir",
+          "/projects/ib",
+          "/projects/ibocconi",
+          "/projects/icalcio",
+          "/projects/icommerce",
+          "/projects/igamma",
+          "/projects/imecc",
+          "/projects/imortacci",
+          "/projects/iuniversity",
+          "/projects/iz",
+          "/projects/java",
+          "/projects/oracle",
+          "/projects/sqlserver",
+          "/projects/university-planner",
+          "/projects/wtrendy"
+        ]
+      },
+      "slug": {
+        "/projects/admissions": [
+          "/projects/admissions"
+        ],
+        "/projects/allie": [
+          "/projects/allie"
+        ],
+        "/projects/atipico": [
+          "/projects/atipico"
+        ],
+        "/projects/business": [
+          "/projects/business"
+        ],
+        "/projects/cim": [
+          "/projects/cim"
+        ],
+        "/projects/clicker": [
+          "/projects/clicker"
+        ],
+        "/projects/csharp": [
+          "/projects/csharp"
+        ],
+        "/projects/easypir": [
+          "/projects/easypir"
+        ],
+        "/projects/ib": [
+          "/projects/ib"
+        ],
+        "/projects/ibocconi": [
+          "/projects/ibocconi"
+        ],
+        "/projects/icalcio": [
+          "/projects/icalcio"
+        ],
+        "/projects/icommerce": [
+          "/projects/icommerce"
+        ],
+        "/projects/igamma": [
+          "/projects/igamma"
+        ],
+        "/projects/imecc": [
+          "/projects/imecc"
+        ],
+        "/projects/imortacci": [
+          "/projects/imortacci"
+        ],
+        "/projects/iuniversity": [
+          "/projects/iuniversity"
+        ],
+        "/projects/iz": [
+          "/projects/iz"
+        ],
+        "/projects/java": [
+          "/projects/java"
+        ],
+        "/projects/oracle": [
+          "/projects/oracle"
+        ],
+        "/projects/sqlserver": [
+          "/projects/sqlserver"
+        ],
+        "/projects/university-planner": [
+          "/projects/university-planner"
+        ],
+        "/projects/wtrendy": [
+          "/projects/wtrendy"
+        ]
+      },
+      "transliterated-slug": {
+        "/projects/admissions": [
+          "/projects/admissions"
+        ],
+        "/projects/allie": [
+          "/projects/allie"
+        ],
+        "/projects/atipico": [
+          "/projects/atipico"
+        ],
+        "/projects/business": [
+          "/projects/business"
+        ],
+        "/projects/cim": [
+          "/projects/cim"
+        ],
+        "/projects/clicker": [
+          "/projects/clicker"
+        ],
+        "/projects/csharp": [
+          "/projects/csharp"
+        ],
+        "/projects/easypir": [
+          "/projects/easypir"
+        ],
+        "/projects/ib": [
+          "/projects/ib"
+        ],
+        "/projects/ibocconi": [
+          "/projects/ibocconi"
+        ],
+        "/projects/icalcio": [
+          "/projects/icalcio"
+        ],
+        "/projects/icommerce": [
+          "/projects/icommerce"
+        ],
+        "/projects/igamma": [
+          "/projects/igamma"
+        ],
+        "/projects/imecc": [
+          "/projects/imecc"
+        ],
+        "/projects/imortacci": [
+          "/projects/imortacci"
+        ],
+        "/projects/iuniversity": [
+          "/projects/iuniversity"
+        ],
+        "/projects/iz": [
+          "/projects/iz"
+        ],
+        "/projects/java": [
+          "/projects/java"
+        ],
+        "/projects/oracle": [
+          "/projects/oracle"
+        ],
+        "/projects/sqlserver": [
+          "/projects/sqlserver"
+        ],
+        "/projects/university-planner": [
+          "/projects/university-planner"
+        ],
+        "/projects/wtrendy": [
+          "/projects/wtrendy"
+        ]
+      },
+      "month": {
+        "01": [
+          "/projects/admissions",
+          "/projects/allie",
+          "/projects/atipico",
+          "/projects/business",
+          "/projects/cim",
+          "/projects/clicker",
+          "/projects/csharp",
+          "/projects/easypir",
+          "/projects/ib",
+          "/projects/ibocconi",
+          "/projects/icalcio",
+          "/projects/icommerce",
+          "/projects/igamma",
+          "/projects/imecc",
+          "/projects/imortacci",
+          "/projects/iuniversity",
+          "/projects/iz",
+          "/projects/java",
+          "/projects/oracle",
+          "/projects/sqlserver",
+          "/projects/university-planner",
+          "/projects/wtrendy"
+        ]
+      },
+      "year": {
+        "2014": [
+          "/projects/admissions",
+          "/projects/allie",
+          "/projects/atipico",
+          "/projects/business",
+          "/projects/cim",
+          "/projects/clicker",
+          "/projects/csharp",
+          "/projects/easypir",
+          "/projects/ib",
+          "/projects/ibocconi",
+          "/projects/icalcio",
+          "/projects/icommerce",
+          "/projects/igamma",
+          "/projects/imecc",
+          "/projects/imortacci",
+          "/projects/iuniversity",
+          "/projects/iz",
+          "/projects/java",
+          "/projects/oracle",
+          "/projects/sqlserver",
+          "/projects/university-planner",
+          "/projects/wtrendy"
+        ]
+      },
+      "ticks": {
+        "1388534400.0": [
+          "/projects/admissions",
+          "/projects/allie",
+          "/projects/atipico",
+          "/projects/business",
+          "/projects/cim",
+          "/projects/clicker",
+          "/projects/csharp",
+          "/projects/easypir",
+          "/projects/ib",
+          "/projects/ibocconi",
+          "/projects/icalcio",
+          "/projects/icommerce",
+          "/projects/igamma",
+          "/projects/imecc",
+          "/projects/imortacci",
+          "/projects/iuniversity",
+          "/projects/iz",
+          "/projects/java",
+          "/projects/oracle",
+          "/projects/sqlserver",
+          "/projects/university-planner",
+          "/projects/wtrendy"
+        ]
+      },
+      "mixture_month_year": {
+        "01/2014": [
+          "/projects/admissions",
+          "/projects/allie",
+          "/projects/atipico",
+          "/projects/business",
+          "/projects/cim",
+          "/projects/clicker",
+          "/projects/csharp",
+          "/projects/easypir",
+          "/projects/ib",
+          "/projects/ibocconi",
+          "/projects/icalcio",
+          "/projects/icommerce",
+          "/projects/igamma",
+          "/projects/imecc",
+          "/projects/imortacci",
+          "/projects/iuniversity",
+          "/projects/iz",
+          "/projects/java",
+          "/projects/oracle",
+          "/projects/sqlserver",
+          "/projects/university-planner",
+          "/projects/wtrendy"
+        ]
+      },
+      "mixture_date": {
+        "2014-01-01t00:00:00z": [
+          "/projects/admissions",
+          "/projects/allie",
+          "/projects/atipico",
+          "/projects/business",
+          "/projects/cim",
+          "/projects/clicker",
+          "/projects/csharp",
+          "/projects/easypir",
+          "/projects/ib",
+          "/projects/ibocconi",
+          "/projects/icalcio",
+          "/projects/icommerce",
+          "/projects/igamma",
+          "/projects/imecc",
+          "/projects/imortacci",
+          "/projects/iuniversity",
+          "/projects/iz",
+          "/projects/java",
+          "/projects/oracle",
+          "/projects/sqlserver",
+          "/projects/university-planner",
+          "/projects/wtrendy"
+        ]
+      }
+    }
+  },
+  "team": {
+    "collection": {
+      "/team/alessandra-ugolini": {
+        "name": "Alessandra Ugolini",
+        "role": "CEO & Human resources",
+        "published": true,
+        "date": "2002-02-01 00:00:00 UTC",
+        "slug": "/team/alessandra-ugolini",
+        "body": "\n",
+        "month": "02",
+        "year": "2002",
+        "ticks": 1012521600.0,
+        "mixture_month_year": "02/2002",
+        "mixture_date": "2002-02-01T00:00:00Z"
+      },
+      "/team/alessandro-fusaroli": {
+        "name": "Alessandro Fusaroli",
+        "role": "developer",
+        "published": true,
+        "date": "2003-01-07 00:00:00 UTC",
+        "slug": "/team/alessandro-fusaroli",
+        "body": "\n",
+        "month": "01",
+        "year": "2003",
+        "ticks": 1041897600.0,
+        "mixture_month_year": "01/2003",
+        "mixture_date": "2003-01-07T00:00:00Z"
+      },
+      "/team/alessandro-zoffoli": {
+        "name": "Alessandro Zoffoli",
+        "role": "developer",
+        "published": true,
+        "date": "2012-09-24 00:00:00 UTC",
+        "slug": "/team/alessandro-zoffoli",
+        "body": "\n",
+        "month": "09",
+        "year": "2012",
+        "ticks": 1348444800.0,
+        "mixture_month_year": "09/2012",
+        "mixture_date": "2012-09-24T00:00:00Z"
+      },
+      "/team/ali-servet-donmez": {
+        "name": "Ali Servet Donmez",
+        "role": "developer",
+        "published": true,
+        "date": "2008-10-01 00:00:00 UTC",
+        "slug": "/team/ali-servet-donmez",
+        "body": "\n",
+        "month": "10",
+        "year": "2008",
+        "ticks": 1222819200.0,
+        "mixture_month_year": "10/2008",
+        "mixture_date": "2008-10-01T00:00:00Z"
+      },
+      "/team/andrea-bencini": {
+        "name": "Andrea Bencini",
+        "role": "developer",
+        "published": true,
+        "date": "2005-04-01 00:00:00 UTC",
+        "slug": "/team/andrea-bencini",
+        "body": "\n",
+        "month": "04",
+        "year": "2005",
+        "ticks": 1112313600.0,
+        "mixture_month_year": "04/2005",
+        "mixture_date": "2005-04-01T00:00:00Z"
+      },
+      "/team/andrea-calisesi": {
+        "name": "Andrea Calisesi",
+        "role": "program manager",
+        "published": true,
+        "date": "2001-09-01 00:00:00 UTC",
+        "slug": "/team/andrea-calisesi",
+        "body": "\n",
+        "month": "09",
+        "year": "2001",
+        "ticks": 999302400.0,
+        "mixture_month_year": "09/2001",
+        "mixture_date": "2001-09-01T00:00:00Z"
+      },
+      "/team/daniele-nucci": {
+        "name": "Daniele Nucci",
+        "role": "developer",
+        "published": true,
+        "date": "2008-05-12 00:00:00 UTC",
+        "slug": "/team/daniele-nucci",
+        "body": "\n",
+        "month": "05",
+        "year": "2008",
+        "ticks": 1210550400.0,
+        "mixture_month_year": "05/2008",
+        "mixture_date": "2008-05-12T00:00:00Z"
+      },
+      "/team/enrico-benini": {
+        "name": "Enrico Benini",
+        "role": "developer",
+        "published": true,
+        "date": "2013-10-02 00:00:00 UTC",
+        "slug": "/team/enrico-benini",
+        "body": "\n",
+        "month": "10",
+        "year": "2013",
+        "ticks": 1380672000.0,
+        "mixture_month_year": "10/2013",
+        "mixture_date": "2013-10-02T00:00:00Z"
+      },
+      "/team/fabio-vassura": {
+        "name": "Fabio Vassura",
+        "role": "developer",
+        "published": true,
+        "date": "2002-06-03 00:00:00 UTC",
+        "slug": "/team/fabio-vassura",
+        "body": "\n",
+        "month": "06",
+        "year": "2002",
+        "ticks": 1023062400.0,
+        "mixture_month_year": "06/2002",
+        "mixture_date": "2002-06-03T00:00:00Z"
+      },
+      "/team/fabrizio-bassi": {
+        "name": "Fabrizio Bassi",
+        "role": "CEO",
+        "published": true,
+        "date": "2001-09-01 00:00:00 UTC",
+        "slug": "/team/fabrizio-bassi",
+        "body": "\n",
+        "month": "09",
+        "year": "2001",
+        "ticks": 999302400.0,
+        "mixture_month_year": "09/2001",
+        "mixture_date": "2001-09-01T00:00:00Z"
+      },
+      "/team/francesca-cremonesi": {
+        "name": "Francesca Cremonesi",
+        "role": "accounting",
+        "published": true,
+        "date": "2001-09-01 00:00:00 UTC",
+        "slug": "/team/francesca-cremonesi",
+        "body": "\n",
+        "month": "09",
+        "year": "2001",
+        "ticks": 999302400.0,
+        "mixture_month_year": "09/2001",
+        "mixture_date": "2001-09-01T00:00:00Z"
+      },
+      "/team/francesco-nolano": {
+        "name": "Francesco Nolano",
+        "role": "developer",
+        "published": true,
+        "date": "2002-06-03 00:00:00 UTC",
+        "slug": "/team/francesco-nolano",
+        "body": "\n",
+        "month": "06",
+        "year": "2002",
+        "ticks": 1023062400.0,
+        "mixture_month_year": "06/2002",
+        "mixture_date": "2002-06-03T00:00:00Z"
+      },
+      "/team/giacomo-rossi": {
+        "name": "Giacomo Rossi",
+        "role": "developer",
+        "published": true,
+        "date": "2013-06-12 00:00:00 UTC",
+        "slug": "/team/giacomo-rossi",
+        "body": "\n",
+        "month": "06",
+        "year": "2013",
+        "ticks": 1370995200.0,
+        "mixture_month_year": "06/2013",
+        "mixture_date": "2013-06-12T00:00:00Z"
+      },
+      "/team/kseniia-pelykh": {
+        "name": "Kseniia Pelykh",
+        "role": "developer",
+        "published": true,
+        "date": "2013-06-17 00:00:00 UTC",
+        "slug": "/team/kseniia-pelykh",
+        "body": "\n",
+        "month": "06",
+        "year": "2013",
+        "ticks": 1371427200.0,
+        "mixture_month_year": "06/2013",
+        "mixture_date": "2013-06-17T00:00:00Z"
+      },
+      "/team/luana-buscherini": {
+        "name": "Luana Buscherini",
+        "role": "developer",
+        "published": true,
+        "date": "2004-10-04 00:00:00 UTC",
+        "slug": "/team/luana-buscherini",
+        "body": "\n",
+        "month": "10",
+        "year": "2004",
+        "ticks": 1096848000.0,
+        "mixture_month_year": "10/2004",
+        "mixture_date": "2004-10-04T00:00:00Z"
+      },
+      "/team/matteo-di-giorgio": {
+        "name": "Matteo Di Giorgio",
+        "role": "sysadmin",
+        "published": true,
+        "date": "2002-10-14 00:00:00 UTC",
+        "slug": "/team/matteo-di-giorgio",
+        "body": "\n",
+        "month": "10",
+        "year": "2002",
+        "ticks": 1034553600.0,
+        "mixture_month_year": "10/2002",
+        "mixture_date": "2002-10-14T00:00:00Z"
+      },
+      "/team/matteo-paci": {
+        "name": "Matteo Paci",
+        "role": "developer",
+        "published": true,
+        "date": "2008-10-01 00:00:00 UTC",
+        "slug": "/team/matteo-paci",
+        "body": "\n",
+        "month": "10",
+        "year": "2008",
+        "ticks": 1222819200.0,
+        "mixture_month_year": "10/2008",
+        "mixture_date": "2008-10-01T00:00:00Z"
+      },
+      "/team/matteo-rinaldi": {
+        "name": "Matteo Rinaldi",
+        "role": "developer",
+        "published": true,
+        "date": "2013-08-27 00:00:00 UTC",
+        "slug": "/team/matteo-rinaldi",
+        "body": "\n",
+        "month": "08",
+        "year": "2013",
+        "ticks": 1377561600.0,
+        "mixture_month_year": "08/2013",
+        "mixture_date": "2013-08-27T00:00:00Z"
+      },
+      "/team/maurizio-amadori": {
+        "name": "Maurizio Amadori",
+        "role": "project <br> manager",
+        "published": true,
+        "date": "2001-10-01 00:00:00 UTC",
+        "slug": "/team/maurizio-amadori",
+        "body": "\n",
+        "month": "10",
+        "year": "2001",
+        "ticks": 1001894400.0,
+        "mixture_month_year": "10/2001",
+        "mixture_date": "2001-10-01T00:00:00Z"
+      },
+      "/team/mauro-di-biagio": {
+        "name": "Mauro Di Biagio",
+        "role": "developer",
+        "published": true,
+        "date": "2008-07-15 00:00:00 UTC",
+        "slug": "/team/mauro-di-biagio",
+        "body": "\n",
+        "month": "07",
+        "year": "2008",
+        "ticks": 1216080000.0,
+        "mixture_month_year": "07/2008",
+        "mixture_date": "2008-07-15T00:00:00Z"
+      },
+      "/team/mirko-pastorelli": {
+        "name": "Mirko Pastorelli",
+        "role": "developer",
+        "published": true,
+        "date": "2013-10-21 00:00:00 UTC",
+        "slug": "/team/mirko-pastorelli",
+        "body": "\n",
+        "month": "10",
+        "year": "2013",
+        "ticks": 1382313600.0,
+        "mixture_month_year": "10/2013",
+        "mixture_date": "2013-10-21T00:00:00Z"
+      },
+      "/team/nicola-casadei": {
+        "name": "Nicola Casadei",
+        "role": "developer",
+        "published": true,
+        "date": "2002-06-03 00:00:00 UTC",
+        "slug": "/team/nicola-casadei",
+        "body": "\n",
+        "month": "06",
+        "year": "2002",
+        "ticks": 1023062400.0,
+        "mixture_month_year": "06/2002",
+        "mixture_date": "2002-06-03T00:00:00Z"
+      },
+      "/team/riccardo-russo": {
+        "name": "Riccardo Russo",
+        "role": "developer",
+        "published": true,
+        "date": "2007-05-04 00:00:00 UTC",
+        "slug": "/team/riccardo-russo",
+        "body": "\n",
+        "month": "05",
+        "year": "2007",
+        "ticks": 1178236800.0,
+        "mixture_month_year": "05/2007",
+        "mixture_date": "2007-05-04T00:00:00Z"
+      },
+      "/team/roberta-bacchini": {
+        "name": "Roberta Bacchini",
+        "role": "accounting",
+        "published": true,
+        "date": "2008-11-17 00:00:00 UTC",
+        "slug": "/team/roberta-bacchini",
+        "body": "\n",
+        "month": "11",
+        "year": "2008",
+        "ticks": 1226880000.0,
+        "mixture_month_year": "11/2008",
+        "mixture_date": "2008-11-17T00:00:00Z"
+      },
+      "/team/roberto-casadei": {
+        "name": "Roberto Casadei",
+        "role": "developer",
+        "published": true,
+        "date": "2002-06-03 00:00:00 UTC",
+        "slug": "/team/roberto-casadei",
+        "body": "\n",
+        "month": "06",
+        "year": "2002",
+        "ticks": 1023062400.0,
+        "mixture_month_year": "06/2002",
+        "mixture_date": "2002-06-03T00:00:00Z"
+      },
+      "/team/sandeep-gajula": {
+        "name": "Sandeep Gajula",
+        "role": "designer",
+        "published": true,
+        "date": "2013-08-27 00:00:00 UTC",
+        "slug": "/team/sandeep-gajula",
+        "body": "\n",
+        "month": "08",
+        "year": "2013",
+        "ticks": 1377561600.0,
+        "mixture_month_year": "08/2013",
+        "mixture_date": "2013-08-27T00:00:00Z"
+      },
+      "/team/stefano-giorgi": {
+        "name": "Stefano Giorgi",
+        "role": "developer",
+        "published": true,
+        "date": "2012-12-17 00:00:00 UTC",
+        "slug": "/team/stefano-giorgi",
+        "body": "\n",
+        "month": "12",
+        "year": "2012",
+        "ticks": 1355702400.0,
+        "mixture_month_year": "12/2012",
+        "mixture_date": "2012-12-17T00:00:00Z"
+      },
+      "/team/stefano-randi": {
+        "name": "Stefano Randi",
+        "role": "developer",
+        "published": true,
+        "date": "2002-07-16 00:00:00 UTC",
+        "slug": "/team/stefano-randi",
+        "body": "\n",
+        "month": "07",
+        "year": "2002",
+        "ticks": 1026777600.0,
+        "mixture_month_year": "07/2002",
+        "mixture_date": "2002-07-16T00:00:00Z"
+      },
+      "/team/stefano-teodorani": {
+        "name": "Stefano Teodorani",
+        "role": "product manager",
+        "published": true,
+        "date": "2001-09-01 00:00:00 UTC",
+        "twitter": "http://twitter.com/teopost",
+        "googleplus": "dfiughdfkjghkjdf",
+        "slug": "/team/stefano-teodorani",
+        "body": "\n",
+        "month": "09",
+        "year": "2001",
+        "ticks": 999302400.0,
+        "mixture_month_year": "09/2001",
+        "mixture_date": "2001-09-01T00:00:00Z"
+      }
+    },
+    "index": {
+      "name": {
+        "alessandra ugolini": [
+          "/team/alessandra-ugolini"
+        ],
+        "alessandro fusaroli": [
+          "/team/alessandro-fusaroli"
+        ],
+        "alessandro zoffoli": [
+          "/team/alessandro-zoffoli"
+        ],
+        "ali servet donmez": [
+          "/team/ali-servet-donmez"
+        ],
+        "andrea bencini": [
+          "/team/andrea-bencini"
+        ],
+        "andrea calisesi": [
+          "/team/andrea-calisesi"
+        ],
+        "daniele nucci": [
+          "/team/daniele-nucci"
+        ],
+        "enrico benini": [
+          "/team/enrico-benini"
+        ],
+        "fabio vassura": [
+          "/team/fabio-vassura"
+        ],
+        "fabrizio bassi": [
+          "/team/fabrizio-bassi"
+        ],
+        "francesca cremonesi": [
+          "/team/francesca-cremonesi"
+        ],
+        "francesco nolano": [
+          "/team/francesco-nolano"
+        ],
+        "giacomo rossi": [
+          "/team/giacomo-rossi"
+        ],
+        "kseniia pelykh": [
+          "/team/kseniia-pelykh"
+        ],
+        "luana buscherini": [
+          "/team/luana-buscherini"
+        ],
+        "matteo di giorgio": [
+          "/team/matteo-di-giorgio"
+        ],
+        "matteo paci": [
+          "/team/matteo-paci"
+        ],
+        "matteo rinaldi": [
+          "/team/matteo-rinaldi"
+        ],
+        "maurizio amadori": [
+          "/team/maurizio-amadori"
+        ],
+        "mauro di biagio": [
+          "/team/mauro-di-biagio"
+        ],
+        "mirko pastorelli": [
+          "/team/mirko-pastorelli"
+        ],
+        "nicola casadei": [
+          "/team/nicola-casadei"
+        ],
+        "riccardo russo": [
+          "/team/riccardo-russo"
+        ],
+        "roberta bacchini": [
+          "/team/roberta-bacchini"
+        ],
+        "roberto casadei": [
+          "/team/roberto-casadei"
+        ],
+        "sandeep gajula": [
+          "/team/sandeep-gajula"
+        ],
+        "stefano giorgi": [
+          "/team/stefano-giorgi"
+        ],
+        "stefano randi": [
+          "/team/stefano-randi"
+        ],
+        "stefano teodorani": [
+          "/team/stefano-teodorani"
+        ]
+      },
+      "transliterated-name": {
+        "alessandra-ugolini": [
+          "/team/alessandra-ugolini"
+        ],
+        "alessandro-fusaroli": [
+          "/team/alessandro-fusaroli"
+        ],
+        "alessandro-zoffoli": [
+          "/team/alessandro-zoffoli"
+        ],
+        "ali-servet-donmez": [
+          "/team/ali-servet-donmez"
+        ],
+        "andrea-bencini": [
+          "/team/andrea-bencini"
+        ],
+        "andrea-calisesi": [
+          "/team/andrea-calisesi"
+        ],
+        "daniele-nucci": [
+          "/team/daniele-nucci"
+        ],
+        "enrico-benini": [
+          "/team/enrico-benini"
+        ],
+        "fabio-vassura": [
+          "/team/fabio-vassura"
+        ],
+        "fabrizio-bassi": [
+          "/team/fabrizio-bassi"
+        ],
+        "francesca-cremonesi": [
+          "/team/francesca-cremonesi"
+        ],
+        "francesco-nolano": [
+          "/team/francesco-nolano"
+        ],
+        "giacomo-rossi": [
+          "/team/giacomo-rossi"
+        ],
+        "kseniia-pelykh": [
+          "/team/kseniia-pelykh"
+        ],
+        "luana-buscherini": [
+          "/team/luana-buscherini"
+        ],
+        "matteo-di-giorgio": [
+          "/team/matteo-di-giorgio"
+        ],
+        "matteo-paci": [
+          "/team/matteo-paci"
+        ],
+        "matteo-rinaldi": [
+          "/team/matteo-rinaldi"
+        ],
+        "maurizio-amadori": [
+          "/team/maurizio-amadori"
+        ],
+        "mauro-di-biagio": [
+          "/team/mauro-di-biagio"
+        ],
+        "mirko-pastorelli": [
+          "/team/mirko-pastorelli"
+        ],
+        "nicola-casadei": [
+          "/team/nicola-casadei"
+        ],
+        "riccardo-russo": [
+          "/team/riccardo-russo"
+        ],
+        "roberta-bacchini": [
+          "/team/roberta-bacchini"
+        ],
+        "roberto-casadei": [
+          "/team/roberto-casadei"
+        ],
+        "sandeep-gajula": [
+          "/team/sandeep-gajula"
+        ],
+        "stefano-giorgi": [
+          "/team/stefano-giorgi"
+        ],
+        "stefano-randi": [
+          "/team/stefano-randi"
+        ],
+        "stefano-teodorani": [
+          "/team/stefano-teodorani"
+        ]
+      },
+      "role": {
+        "ceo & human resources": [
+          "/team/alessandra-ugolini"
+        ],
+        "developer": [
+          "/team/alessandro-fusaroli",
+          "/team/alessandro-zoffoli",
+          "/team/ali-servet-donmez",
+          "/team/andrea-bencini",
+          "/team/daniele-nucci",
+          "/team/enrico-benini",
+          "/team/fabio-vassura",
+          "/team/francesco-nolano",
+          "/team/giacomo-rossi",
+          "/team/kseniia-pelykh",
+          "/team/luana-buscherini",
+          "/team/matteo-paci",
+          "/team/matteo-rinaldi",
+          "/team/mauro-di-biagio",
+          "/team/mirko-pastorelli",
+          "/team/nicola-casadei",
+          "/team/riccardo-russo",
+          "/team/roberto-casadei",
+          "/team/stefano-giorgi",
+          "/team/stefano-randi"
+        ],
+        "program manager": [
+          "/team/andrea-calisesi"
+        ],
+        "ceo": [
+          "/team/fabrizio-bassi"
+        ],
+        "accounting": [
+          "/team/francesca-cremonesi",
+          "/team/roberta-bacchini"
+        ],
+        "sysadmin": [
+          "/team/matteo-di-giorgio"
+        ],
+        "project <br> manager": [
+          "/team/maurizio-amadori"
+        ],
+        "designer": [
+          "/team/sandeep-gajula"
+        ],
+        "product manager": [
+          "/team/stefano-teodorani"
+        ]
+      },
+      "transliterated-role": {
+        "ceo--human-resources": [
+          "/team/alessandra-ugolini"
+        ],
+        "developer": [
+          "/team/alessandro-fusaroli",
+          "/team/alessandro-zoffoli",
+          "/team/ali-servet-donmez",
+          "/team/andrea-bencini",
+          "/team/daniele-nucci",
+          "/team/enrico-benini",
+          "/team/fabio-vassura",
+          "/team/francesco-nolano",
+          "/team/giacomo-rossi",
+          "/team/kseniia-pelykh",
+          "/team/luana-buscherini",
+          "/team/matteo-paci",
+          "/team/matteo-rinaldi",
+          "/team/mauro-di-biagio",
+          "/team/mirko-pastorelli",
+          "/team/nicola-casadei",
+          "/team/riccardo-russo",
+          "/team/roberto-casadei",
+          "/team/stefano-giorgi",
+          "/team/stefano-randi"
+        ],
+        "program-manager": [
+          "/team/andrea-calisesi"
+        ],
+        "ceo": [
+          "/team/fabrizio-bassi"
+        ],
+        "accounting": [
+          "/team/francesca-cremonesi",
+          "/team/roberta-bacchini"
+        ],
+        "sysadmin": [
+          "/team/matteo-di-giorgio"
+        ],
+        "project-br-manager": [
+          "/team/maurizio-amadori"
+        ],
+        "designer": [
+          "/team/sandeep-gajula"
+        ],
+        "product-manager": [
+          "/team/stefano-teodorani"
+        ]
+      },
+      "slug": {
+        "/team/alessandra-ugolini": [
+          "/team/alessandra-ugolini"
+        ],
+        "/team/alessandro-fusaroli": [
+          "/team/alessandro-fusaroli"
+        ],
+        "/team/alessandro-zoffoli": [
+          "/team/alessandro-zoffoli"
+        ],
+        "/team/ali-servet-donmez": [
+          "/team/ali-servet-donmez"
+        ],
+        "/team/andrea-bencini": [
+          "/team/andrea-bencini"
+        ],
+        "/team/andrea-calisesi": [
+          "/team/andrea-calisesi"
+        ],
+        "/team/daniele-nucci": [
+          "/team/daniele-nucci"
+        ],
+        "/team/enrico-benini": [
+          "/team/enrico-benini"
+        ],
+        "/team/fabio-vassura": [
+          "/team/fabio-vassura"
+        ],
+        "/team/fabrizio-bassi": [
+          "/team/fabrizio-bassi"
+        ],
+        "/team/francesca-cremonesi": [
+          "/team/francesca-cremonesi"
+        ],
+        "/team/francesco-nolano": [
+          "/team/francesco-nolano"
+        ],
+        "/team/giacomo-rossi": [
+          "/team/giacomo-rossi"
+        ],
+        "/team/kseniia-pelykh": [
+          "/team/kseniia-pelykh"
+        ],
+        "/team/luana-buscherini": [
+          "/team/luana-buscherini"
+        ],
+        "/team/matteo-di-giorgio": [
+          "/team/matteo-di-giorgio"
+        ],
+        "/team/matteo-paci": [
+          "/team/matteo-paci"
+        ],
+        "/team/matteo-rinaldi": [
+          "/team/matteo-rinaldi"
+        ],
+        "/team/maurizio-amadori": [
+          "/team/maurizio-amadori"
+        ],
+        "/team/mauro-di-biagio": [
+          "/team/mauro-di-biagio"
+        ],
+        "/team/mirko-pastorelli": [
+          "/team/mirko-pastorelli"
+        ],
+        "/team/nicola-casadei": [
+          "/team/nicola-casadei"
+        ],
+        "/team/riccardo-russo": [
+          "/team/riccardo-russo"
+        ],
+        "/team/roberta-bacchini": [
+          "/team/roberta-bacchini"
+        ],
+        "/team/roberto-casadei": [
+          "/team/roberto-casadei"
+        ],
+        "/team/sandeep-gajula": [
+          "/team/sandeep-gajula"
+        ],
+        "/team/stefano-giorgi": [
+          "/team/stefano-giorgi"
+        ],
+        "/team/stefano-randi": [
+          "/team/stefano-randi"
+        ],
+        "/team/stefano-teodorani": [
+          "/team/stefano-teodorani"
+        ]
+      },
+      "transliterated-slug": {
+        "/team/alessandra-ugolini": [
+          "/team/alessandra-ugolini"
+        ],
+        "/team/alessandro-fusaroli": [
+          "/team/alessandro-fusaroli"
+        ],
+        "/team/alessandro-zoffoli": [
+          "/team/alessandro-zoffoli"
+        ],
+        "/team/ali-servet-donmez": [
+          "/team/ali-servet-donmez"
+        ],
+        "/team/andrea-bencini": [
+          "/team/andrea-bencini"
+        ],
+        "/team/andrea-calisesi": [
+          "/team/andrea-calisesi"
+        ],
+        "/team/daniele-nucci": [
+          "/team/daniele-nucci"
+        ],
+        "/team/enrico-benini": [
+          "/team/enrico-benini"
+        ],
+        "/team/fabio-vassura": [
+          "/team/fabio-vassura"
+        ],
+        "/team/fabrizio-bassi": [
+          "/team/fabrizio-bassi"
+        ],
+        "/team/francesca-cremonesi": [
+          "/team/francesca-cremonesi"
+        ],
+        "/team/francesco-nolano": [
+          "/team/francesco-nolano"
+        ],
+        "/team/giacomo-rossi": [
+          "/team/giacomo-rossi"
+        ],
+        "/team/kseniia-pelykh": [
+          "/team/kseniia-pelykh"
+        ],
+        "/team/luana-buscherini": [
+          "/team/luana-buscherini"
+        ],
+        "/team/matteo-di-giorgio": [
+          "/team/matteo-di-giorgio"
+        ],
+        "/team/matteo-paci": [
+          "/team/matteo-paci"
+        ],
+        "/team/matteo-rinaldi": [
+          "/team/matteo-rinaldi"
+        ],
+        "/team/maurizio-amadori": [
+          "/team/maurizio-amadori"
+        ],
+        "/team/mauro-di-biagio": [
+          "/team/mauro-di-biagio"
+        ],
+        "/team/mirko-pastorelli": [
+          "/team/mirko-pastorelli"
+        ],
+        "/team/nicola-casadei": [
+          "/team/nicola-casadei"
+        ],
+        "/team/riccardo-russo": [
+          "/team/riccardo-russo"
+        ],
+        "/team/roberta-bacchini": [
+          "/team/roberta-bacchini"
+        ],
+        "/team/roberto-casadei": [
+          "/team/roberto-casadei"
+        ],
+        "/team/sandeep-gajula": [
+          "/team/sandeep-gajula"
+        ],
+        "/team/stefano-giorgi": [
+          "/team/stefano-giorgi"
+        ],
+        "/team/stefano-randi": [
+          "/team/stefano-randi"
+        ],
+        "/team/stefano-teodorani": [
+          "/team/stefano-teodorani"
+        ]
+      },
+      "month": {
+        "02": [
+          "/team/alessandra-ugolini"
+        ],
+        "01": [
+          "/team/alessandro-fusaroli"
+        ],
+        "09": [
+          "/team/alessandro-zoffoli",
+          "/team/andrea-calisesi",
+          "/team/fabrizio-bassi",
+          "/team/francesca-cremonesi",
+          "/team/stefano-teodorani"
+        ],
+        "10": [
+          "/team/ali-servet-donmez",
+          "/team/enrico-benini",
+          "/team/luana-buscherini",
+          "/team/matteo-di-giorgio",
+          "/team/matteo-paci",
+          "/team/maurizio-amadori",
+          "/team/mirko-pastorelli"
+        ],
+        "04": [
+          "/team/andrea-bencini"
+        ],
+        "05": [
+          "/team/daniele-nucci",
+          "/team/riccardo-russo"
+        ],
+        "06": [
+          "/team/fabio-vassura",
+          "/team/francesco-nolano",
+          "/team/giacomo-rossi",
+          "/team/kseniia-pelykh",
+          "/team/nicola-casadei",
+          "/team/roberto-casadei"
+        ],
+        "08": [
+          "/team/matteo-rinaldi",
+          "/team/sandeep-gajula"
+        ],
+        "07": [
+          "/team/mauro-di-biagio",
+          "/team/stefano-randi"
+        ],
+        "11": [
+          "/team/roberta-bacchini"
+        ],
+        "12": [
+          "/team/stefano-giorgi"
+        ]
+      },
+      "year": {
+        "2002": [
+          "/team/alessandra-ugolini",
+          "/team/fabio-vassura",
+          "/team/francesco-nolano",
+          "/team/matteo-di-giorgio",
+          "/team/nicola-casadei",
+          "/team/roberto-casadei",
+          "/team/stefano-randi"
+        ],
+        "2003": [
+          "/team/alessandro-fusaroli"
+        ],
+        "2012": [
+          "/team/alessandro-zoffoli",
+          "/team/stefano-giorgi"
+        ],
+        "2008": [
+          "/team/ali-servet-donmez",
+          "/team/daniele-nucci",
+          "/team/matteo-paci",
+          "/team/mauro-di-biagio",
+          "/team/roberta-bacchini"
+        ],
+        "2005": [
+          "/team/andrea-bencini"
+        ],
+        "2001": [
+          "/team/andrea-calisesi",
+          "/team/fabrizio-bassi",
+          "/team/francesca-cremonesi",
+          "/team/maurizio-amadori",
+          "/team/stefano-teodorani"
+        ],
+        "2013": [
+          "/team/enrico-benini",
+          "/team/giacomo-rossi",
+          "/team/kseniia-pelykh",
+          "/team/matteo-rinaldi",
+          "/team/mirko-pastorelli",
+          "/team/sandeep-gajula"
+        ],
+        "2004": [
+          "/team/luana-buscherini"
+        ],
+        "2007": [
+          "/team/riccardo-russo"
+        ]
+      },
+      "ticks": {
+        "1012521600.0": [
+          "/team/alessandra-ugolini"
+        ],
+        "1041897600.0": [
+          "/team/alessandro-fusaroli"
+        ],
+        "1348444800.0": [
+          "/team/alessandro-zoffoli"
+        ],
+        "1222819200.0": [
+          "/team/ali-servet-donmez",
+          "/team/matteo-paci"
+        ],
+        "1112313600.0": [
+          "/team/andrea-bencini"
+        ],
+        "999302400.0": [
+          "/team/andrea-calisesi",
+          "/team/fabrizio-bassi",
+          "/team/francesca-cremonesi",
+          "/team/stefano-teodorani"
+        ],
+        "1210550400.0": [
+          "/team/daniele-nucci"
+        ],
+        "1380672000.0": [
+          "/team/enrico-benini"
+        ],
+        "1023062400.0": [
+          "/team/fabio-vassura",
+          "/team/francesco-nolano",
+          "/team/nicola-casadei",
+          "/team/roberto-casadei"
+        ],
+        "1370995200.0": [
+          "/team/giacomo-rossi"
+        ],
+        "1371427200.0": [
+          "/team/kseniia-pelykh"
+        ],
+        "1096848000.0": [
+          "/team/luana-buscherini"
+        ],
+        "1034553600.0": [
+          "/team/matteo-di-giorgio"
+        ],
+        "1377561600.0": [
+          "/team/matteo-rinaldi",
+          "/team/sandeep-gajula"
+        ],
+        "1001894400.0": [
+          "/team/maurizio-amadori"
+        ],
+        "1216080000.0": [
+          "/team/mauro-di-biagio"
+        ],
+        "1382313600.0": [
+          "/team/mirko-pastorelli"
+        ],
+        "1178236800.0": [
+          "/team/riccardo-russo"
+        ],
+        "1226880000.0": [
+          "/team/roberta-bacchini"
+        ],
+        "1355702400.0": [
+          "/team/stefano-giorgi"
+        ],
+        "1026777600.0": [
+          "/team/stefano-randi"
+        ]
+      },
+      "mixture_month_year": {
+        "02/2002": [
+          "/team/alessandra-ugolini"
+        ],
+        "01/2003": [
+          "/team/alessandro-fusaroli"
+        ],
+        "09/2012": [
+          "/team/alessandro-zoffoli"
+        ],
+        "10/2008": [
+          "/team/ali-servet-donmez",
+          "/team/matteo-paci"
+        ],
+        "04/2005": [
+          "/team/andrea-bencini"
+        ],
+        "09/2001": [
+          "/team/andrea-calisesi",
+          "/team/fabrizio-bassi",
+          "/team/francesca-cremonesi",
+          "/team/stefano-teodorani"
+        ],
+        "05/2008": [
+          "/team/daniele-nucci"
+        ],
+        "10/2013": [
+          "/team/enrico-benini",
+          "/team/mirko-pastorelli"
+        ],
+        "06/2002": [
+          "/team/fabio-vassura",
+          "/team/francesco-nolano",
+          "/team/nicola-casadei",
+          "/team/roberto-casadei"
+        ],
+        "06/2013": [
+          "/team/giacomo-rossi",
+          "/team/kseniia-pelykh"
+        ],
+        "10/2004": [
+          "/team/luana-buscherini"
+        ],
+        "10/2002": [
+          "/team/matteo-di-giorgio"
+        ],
+        "08/2013": [
+          "/team/matteo-rinaldi",
+          "/team/sandeep-gajula"
+        ],
+        "10/2001": [
+          "/team/maurizio-amadori"
+        ],
+        "07/2008": [
+          "/team/mauro-di-biagio"
+        ],
+        "05/2007": [
+          "/team/riccardo-russo"
+        ],
+        "11/2008": [
+          "/team/roberta-bacchini"
+        ],
+        "12/2012": [
+          "/team/stefano-giorgi"
+        ],
+        "07/2002": [
+          "/team/stefano-randi"
+        ]
+      },
+      "mixture_date": {
+        "2002-02-01t00:00:00z": [
+          "/team/alessandra-ugolini"
+        ],
+        "2003-01-07t00:00:00z": [
+          "/team/alessandro-fusaroli"
+        ],
+        "2012-09-24t00:00:00z": [
+          "/team/alessandro-zoffoli"
+        ],
+        "2008-10-01t00:00:00z": [
+          "/team/ali-servet-donmez",
+          "/team/matteo-paci"
+        ],
+        "2005-04-01t00:00:00z": [
+          "/team/andrea-bencini"
+        ],
+        "2001-09-01t00:00:00z": [
+          "/team/andrea-calisesi",
+          "/team/fabrizio-bassi",
+          "/team/francesca-cremonesi",
+          "/team/stefano-teodorani"
+        ],
+        "2008-05-12t00:00:00z": [
+          "/team/daniele-nucci"
+        ],
+        "2013-10-02t00:00:00z": [
+          "/team/enrico-benini"
+        ],
+        "2002-06-03t00:00:00z": [
+          "/team/fabio-vassura",
+          "/team/francesco-nolano",
+          "/team/nicola-casadei",
+          "/team/roberto-casadei"
+        ],
+        "2013-06-12t00:00:00z": [
+          "/team/giacomo-rossi"
+        ],
+        "2013-06-17t00:00:00z": [
+          "/team/kseniia-pelykh"
+        ],
+        "2004-10-04t00:00:00z": [
+          "/team/luana-buscherini"
+        ],
+        "2002-10-14t00:00:00z": [
+          "/team/matteo-di-giorgio"
+        ],
+        "2013-08-27t00:00:00z": [
+          "/team/matteo-rinaldi",
+          "/team/sandeep-gajula"
+        ],
+        "2001-10-01t00:00:00z": [
+          "/team/maurizio-amadori"
+        ],
+        "2008-07-15t00:00:00z": [
+          "/team/mauro-di-biagio"
+        ],
+        "2013-10-21t00:00:00z": [
+          "/team/mirko-pastorelli"
+        ],
+        "2007-05-04t00:00:00z": [
+          "/team/riccardo-russo"
+        ],
+        "2008-11-17t00:00:00z": [
+          "/team/roberta-bacchini"
+        ],
+        "2012-12-17t00:00:00z": [
+          "/team/stefano-giorgi"
+        ],
+        "2002-07-16t00:00:00z": [
+          "/team/stefano-randi"
+        ]
+      },
+      "twitter": {
+        "http://twitter.com/teopost": [
+          "/team/stefano-teodorani"
+        ]
+      },
+      "transliterated-twitter": {
+        "http//twittercom/teopost": [
+          "/team/stefano-teodorani"
+        ]
+      },
+      "googleplus": {
+        "dfiughdfkjghkjdf": [
+          "/team/stefano-teodorani"
+        ]
+      },
+      "transliterated-googleplus": {
+        "dfiughdfkjghkjdf": [
+          "/team/stefano-teodorani"
+        ]
+      }
+    }
+  }
+}

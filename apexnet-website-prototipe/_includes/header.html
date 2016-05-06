@@ -1,0 +1,94 @@
+<!-- Navigation -->
+{% assign t = site.data.translations[page.lang] %}
+
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+
+
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <!--  <a class="navbar-brand page-scroll" href="#page-top">{{site.title}}</a> -->
+                <A href="{{ site.baseurl }}/">
+                <img src="{{ site.baseurl }}/img/company-logo.png" class="img-responsive" alt="">
+                </A>
+                <!-- Selettore lingua -->
+<!--
+                  <ul class="navbar-nav navbar-left navbar-lang">
+
+                    <li>
+                      <a href="{{ site.baseurl }}{{ post.url }}" class="en">en</a>
+                    </li>
+
+                    <li>
+                      <a href="{{ site.baseurl }}{{ post.url }}/it/" class="it">it</a>
+                    </li>
+
+                  </ul>
+-->
+
+
+            </div>
+
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#services">{{ t.services }}</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#portfolio">{{ t.portfolio }}</a>
+                    </li>
+<!--
+                    <li>
+                        <a class="page-scroll" href="#clients">Clienti</a>
+                    </li>
+-->
+                    <li>
+                        <a class="page-scroll" href="#team">{{ t.team }}</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#contact">{{ t.contacts }}</a>
+                    </li>
+                </ul>
+            </div>
+
+
+
+            <!-- /.navbar-collapse -->
+
+
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="intro-text">
+                <div class="intro-lead-in"></div>
+                <div class="intro-heading"> {{ t.header_payoff }} </div>
+                  <div class="intro-heading">
+                <a href="#services" class="page-scroll btn btn-xl text-left">{{ t.header_button }}</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+
+
+<!--
+        {% for page in site.pages %}
+          {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
+        {% endfor %}
+ -->

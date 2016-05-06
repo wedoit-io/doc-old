@@ -1,0 +1,91 @@
+url: https://teopost.github.io
+# in locale
+#baseurl: /
+
+# su teopost apex
+baseurl: /apex-net-website-new
+
+permalink: /:categories/:title
+
+defaults:
+  -
+    scope:
+      path: _posts/en
+    values:
+      lang: en
+  -
+    scope:
+      path: _posts/it
+    values:
+      lang: it
+
+# Site settings
+title: Apex-net s.r.l
+email: info@apexnet.it
+description: "Sviluppo di App mobile IOS e Android per la tua azienda"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  #primary: fed136
+  #secondary: fec503
+  primary: 4CAAC9
+  secondary: 8BD3EB
+  secondary-dark: 818184
+  navbar-color: 109CCA
+
+# Team names, titles and social links
+people:
+- name: Fabrizio Bassi
+  pic: 1
+  position: CEO
+  social:
+    - title: twitter
+      url: https://twitter.com/fabassi
+    - title: facebook
+      url: https://www.facebook.com/fabassi
+    - title: instagram
+      url: https://instagram.com/fabas/
+
+- name: Stefano Teodorani
+  pic: 2
+  position: Product manager
+  social:
+    - title: twitter
+      url: https://twitter.com/teopost
+    - title: facebook
+      url: https://www.facebook.com/steodorani
+#    - title: linkedin
+#      url: https://www.linkedin.com/pub/stefano-teodorani/10/426/947
+#    - title: instagram
+#      url: https://instagram.com/teopost/
+    - title: google-plus
+      url: https://plus.google.com/+StefanoTeodorani
+
+- name: Andrea Calisesi
+  pic: 3
+  position: R&D Head
+  social:
+    - title: twitter
+      url: https://twitter.com/andreacalisesi
+    - title: facebook
+      url: https://www.facebook.com/andrea.calisesi
+    - title: google-plus
+      url: https://plus.google.com/106329355611967823330
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/apexnetsrl
+  - title: facebook
+    url: https://www.facebook.com/apexnetsrl
+  - title: github
+    url: http://github.com/Apex-net
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 47523 Melrose Place
+  - line: Cesena, FC
+
+# Build settings
+markdown: kramdown
+permalink: pretty

@@ -1,0 +1,43 @@
+{
+  "site": {
+    "title": "Apex&ndash;net",
+    "navigation": [
+      {
+        "key": "about",
+        "title": "About"
+      },
+      {
+        "key": "projects",
+        "title": "Portfolio"
+      },
+      {
+        "key": "team",
+        "title": "Team"
+      },
+      {
+        "key": "contact",
+        "title": "Contatti"
+      }
+    ],
+    "projects": {
+      "categories": {
+        "mobile": {
+          "title": "Mobile"
+        },
+        "web": {
+          "title": "Web"
+        },
+        "services": {
+          "title": "Servizi"
+        }
+      }
+    }
+  },
+  "company": {
+    "name": "Apex&ndash;net S.r.l.",
+    "vat": "P. IVA 03882430402",
+    "email": "info@apexnet.it",
+    "address": "Via Cerchia di San Giorgio, 145 <br>47521 Cesena (FC)",
+    "phone": "+39 0547 1902799"
+  }
+}

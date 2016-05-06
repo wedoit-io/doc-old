@@ -1,0 +1,59 @@
+en:
+
+  header_button: "Tell me more"
+  header_payoff: "Ideas to touch."
+
+  services: "Services"
+  services_section: "Services"
+
+  services_mobile_title: "Mobile apps"
+  services_mobile_description: "APEX-net develops professional applications for Android, iOS and Windows Phone."
+#  services_mobile_text_button: "know"
+
+  services_web_title: "Web development"
+  services_web_description: "Web applications developed by APEX-net using the most advanced and latest software architectures."
+#  services_web_text_button: "know"
+
+  services_service_title: "Consulting"
+  services_service_description: "Our professionals provide years of extensive consultations on technology, systems engineering and database architectures."
+#  services_service_text_button: "know"
+
+  portfolio: "Projects"
+  portfolio_section: "Recent Projects"
+  portfolio_text_button: "View all projects"
+
+  team: "Team"
+  team_section: "People"
+
+  contacts: "Contact"
+  contacts_section: "Contact Us"
+
+it:
+
+  header_button: "Scopri di più"
+  header_payoff: "Ideas to touch."
+
+  services: "Servizi"
+  services_section: "Servizi"
+  portfolio_text_button: "Tutti i progetti"
+
+  services_mobile_title: "Applicazioni Mobile"
+  services_mobile_description: "APEX-net sviluppa applicazioni professionali per Android, IOS e Windows Phone."
+#  services_mobile_text_button: "Scopri chi ha ci ha scelto"
+
+  services_web_title: "Applicazioni Web"
+  services_web_description: "Le applicazioni web sviluppate da APEX-net utilizzano le più avanzate e recenti architetture software."
+#  services_web_text_button: "Scopri chi ha ci ha scelto"
+
+  services_service_title: "Servizi di Consulenza"
+  services_service_description: "I nostri professionisti forniscono da anni approfondite consulenze su tecnologie, architetture sistemistiche e database."
+#  services_service_text_button: "Scopri chi ha ci ha scelto"
+
+  portfolio: "Progetti"
+  portfolio_section: "Progetti Recenti"
+
+  team: "Team"
+  team_section: "Persone"
+
+  contacts: "Contatti"
+  contacts_section: "Contatti"
